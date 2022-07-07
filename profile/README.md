@@ -1,5 +1,7 @@
 ## Coders For Earth
 
+Our organization webpage will be updated in a few months :)
+
 <!---
 To Do:
 
