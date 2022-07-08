@@ -51,7 +51,7 @@ Plus, the `.svg` file's font was not rednering
 on GitHub correctly at first;
 the font would default back to the base font,
 instead of `Bungee`. We were able to fix this
-issue by choosing the "Convert texts to paths"
+issue by choosing the `Convert texts to paths`
 option on `BoxySVG`'s export settings.
 
 
