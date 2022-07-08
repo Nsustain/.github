@@ -134,13 +134,13 @@ goes offline thanks to `Kubernetes`.
   <b>WHAT NEXT?</b>
 </p>
 
-You could to 
+You could go to 
 [our website](https://codersforearth.com)
 and see if there's any project
 you'd love to invest your time in,
 or you could even become a contributor
-of this website itself. Our website is fully
-open-source.
+of this website itself. 
+Our website is open-source.
 
 
 
