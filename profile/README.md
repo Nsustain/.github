@@ -167,8 +167,8 @@ or you could even become a contributor
 of this website itself, which is open-source.
 [[GitHub](https://github.com/CodersForEarth/codersforearth.com)]
 
-Plus, you could download various
-versions of
+Plus, if you like our logo,
+you could download various versions of
 [our logo](https://github.com/CodersForEarth/.github/blob/main/README.md),
 whose base image was created by `@realvjy` at
 [illlustrations.co](https://illlustrations.co)
