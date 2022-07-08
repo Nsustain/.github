@@ -38,8 +38,8 @@ phase until at least the end of October.
 <p align="center">
   <b>
     CODERS FOR EARTH
-    <a href="https://codersforearth.com">
-      [Website]
+    <a href="https://github.com/CodersForEarth/codersforearth.com">
+      [GitHub]
     </a>
   </b>
 </p>
