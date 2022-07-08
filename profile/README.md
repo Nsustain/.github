@@ -10,8 +10,9 @@
   <a href="https://github.com/CodersForEarth/codersforearth.com">
     <img alt="codersforearth.com" src="https://img.shields.io/badge/GitHub-codersforearth.com-brightgreen">
   </a>
-
-  <img src="https://badgen.net/github/license/CodersForEarth/codersforearth.com">
+  <a href="https://github.com/CodersForEarth/codersforearth.com/blob/main/LICENSE">
+    <img src="https://badgen.net/github/license/CodersForEarth/codersforearth.com">
+  </a>
 </p>
 
 ---
