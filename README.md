@@ -50,11 +50,11 @@ the text `CODERS FOR EARTH` with
 Google Fonts `Bungee` 89pt.
 By the way, we had a problem of
 our `.svg` file's font not rednering
-on GitHub correctly;
-the font would default back to the system font,
-instead of `Bungee`, but we were able to fix this
-issue by choosing the `Convert texts to paths`
-option on `BoxySVG`'s export settings.
+on GitHub correctly; the font would default 
+back to the system font, but we were able to 
+fix this issue by choosing the 
+`Convert texts to paths` option on 
+`BoxySVG`'s export settings.
 
 
 
