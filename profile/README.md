@@ -164,8 +164,8 @@ You could go to
 and see if there's any project
 you'd love to invest your time in,
 or you could even become a contributor
-of this website itself. 
-Our website is open-source.
+of this website itself, which is open-source.
+[[GitHub](https://github.com/CodersForEarth/codersforearth.com)]
 
 Plus, you could download various
 versions of
