@@ -31,10 +31,6 @@
 
 ---
 
-![logo_com](./profile/logo_com.svg)
-
----
-
 ![logo_combined](./profile/logo_combined.svg)
 
 ---
