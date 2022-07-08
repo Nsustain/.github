@@ -48,7 +48,7 @@ An open-source website, where ...
 -->
 
 <p align="center">
-  <b>HOW OUR WEBSITE IS MADE</b>
+  <b>HOW OUR WEBSITE WAS MADE</b>
 </p>
 
 Here are the exact steps we took to
