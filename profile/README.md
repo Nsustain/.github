@@ -96,11 +96,27 @@ Blabla ...
 
 ## 2. Web Server
 
+**Hosting a Virtual Private Server**<br>
 [[Original article by Joe Morgan](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-react-application-with-nginx-on-ubuntu-20-04)]<br>
 Techs used:
 `nginx`
 
 Blabla ...
+
+**Getting a domain name**<br>
+Techs used:
+`Google Domains`
+
+**(Optional) Setting up a custom-domain email forwarding service**<br>
+[[Original article by Forward Email](https://forwardemail.net/en/faq#how-do-i-get-started-and-set-up-email-forwarding)]<br>
+Techs used:
+`ForwardEmail.net`
+
+One way of doing this would be setting up an
+email server on the VPS we just got, but
+we don't need such complexity. All our email
+needs were such that just using an email
+forwarding service would meet all our needs. 
 
 <br>
 <br>
