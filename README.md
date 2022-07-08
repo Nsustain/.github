@@ -23,6 +23,9 @@
   <b>OFFICIAL LOGO</b>
 </p>
 
+![logo](./profile/logo_bare.svg)
+
+---
 
 ![logo](./profile/logo.svg)
 
