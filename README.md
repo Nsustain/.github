@@ -17,7 +17,10 @@
 
 ---
 
-**Official Logos**
+<p align="center">
+  **Official Logo**
+</p>
+
 
 ![logo](./profile/logo.svg)
 
