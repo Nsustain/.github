@@ -43,10 +43,10 @@ We didn't have to design our logo ourselves,
 thanks to `@realvjy`, who published the owl on
 [illlustrations.co](https://illlustrations.co/)
 and made it open-source. Thank you, `@realvjy`!
-We added the text `CODERS FOR EARTH` with
-Google Fonts `Bungee` 89pt, using a vector 
-graphics editor [Boxy SVG](https://boxy-svg.com/).
-
+The text `CODERS FOR EARTH` was added by using
+a graphics editor called [Boxy SVG](https://boxy-svg.com/),
+with Google Fonts `Bungee` 89pt.
+ 
 We initially had a problem with our `.svg` file;
 its font would default back to the system font
 on `GitHub`. However, we were able to fix this 
