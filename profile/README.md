@@ -19,6 +19,10 @@
 
 ---
 
+<br>
+<br>
+<br>
+
 **July 8, 2022** We haven't yet finished
 our website yet, so our website is not online
 obviously, but we wrote this page
@@ -27,13 +31,9 @@ Anyway, please come back in a few months!
 This project will remain in the development
 phase until at least the end of October.
 
-
 <br>
 <br>
 <br>
-<br>
-<br>
-
 
 <p align="center">
   <b>HOW OUR WEBSITE IS MADE</b>
