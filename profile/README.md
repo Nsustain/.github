@@ -20,19 +20,27 @@
 ---
 
 **July 8, 2022** We haven't yet finished
-our website yet, but we wrote this page
+our website yet, so our website is not online
+obviously, but we wrote this page
 in the past tense to document the process.
-
 Anyway, please come back in a few months!
 This project will remain in the development
 phase until at least the end of October.
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 <p align="center">
-  HOW OUR WEBSITE IS MADE
+  <b>HOW OUR WEBSITE IS MADE</b>
 </p>
 
 Here are the exact steps we took to
-make [our website](codersforearth.com).
+make [our website](https://codersforearth.com).
 We documented each step from ground-up,
 hoping that you can replicate it if you need to. 
 
