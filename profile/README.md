@@ -114,7 +114,7 @@ Techs used:
 
 One way of doing this would be setting up an
 email server on the VPS we just got, but
-we don't need such complexity. All our email
+we didn't need such complexity. All our email
 needs were such that just using an email
 forwarding service would meet all our needs. 
 
