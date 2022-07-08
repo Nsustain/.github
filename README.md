@@ -40,8 +40,8 @@
 </p>
 
 The original image of our logo
-was created by @realvjy.
-Thank you @realvjy again for open-sourcing it!
+was created by `@realvjy`.
+Thank you `@realvjy` again for open-sourcing it!
 
 After downloading the base image from
 https://illlustrations.co/
