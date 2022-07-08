@@ -44,7 +44,8 @@ thanks to `@realvjy`, who published the owl on
 [illlustrations.co](https://illlustrations.co/)
 and made it open-source. Thank you, `@realvjy`!
 Our project name `CODERS FOR EARTH` was added by using
-a graphics editor called [Boxy SVG](https://boxy-svg.com/),
+a vector-graphics editor called 
+[Boxy SVG](https://boxy-svg.com/),
 with Google Fonts `Bungee` 89pt.
  
 We initially had a problem with our `.svg` file;
