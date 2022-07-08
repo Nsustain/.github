@@ -107,7 +107,8 @@ Blabla ...
 Techs used:
 `Google Domains`
 
-Our domain `codersforearth.com` costs $12 per year.
+Our domain name `codersforearth.com`
+costs $12 per year.
 
 **(Optional) Setting up a custom-domain email forwarding service**<br>
 [[Original article by Forward Email](https://forwardemail.net/en/faq#how-do-i-get-started-and-set-up-email-forwarding)]<br>
