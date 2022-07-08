@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <b>[Official Logo]</b>
+  <b>OFFICIAL LOGO</b>
 </p>
 
 
