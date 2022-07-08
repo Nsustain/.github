@@ -1,4 +1,11 @@
-## Coders For Earth
+---
+
+<p align="center">
+  <img src="logo_wide.svg?raw=true" width="350">
+</p>
+
+---
+
 
 Our organization webpage will be updated in a few months :)
 
