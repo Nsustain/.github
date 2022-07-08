@@ -44,8 +44,8 @@ was created by `@realvjy`.
 Thank you `@realvjy` again for open-sourcing it!
 
 After downloading the base image from
-https://illlustrations.co/
-The base image was edited with `BoxySVG`.
+[illlustrations.co](https://illlustrations.co/)
+the base image was edited with `BoxySVG`.
 This logo uses the font `Bungee` size 89.
 Plus, the .svg file's font was not rednering
 on GitHub correctly at first, but it was
