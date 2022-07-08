@@ -24,7 +24,7 @@
 <br>
 
 **July 8, 2022** We haven't yet finished
-our website yet, so our website is not online
+our website, so our website is not online
 obviously, but we wrote this page
 in the past tense to document the process.
 Anyway, please come back in a few months!
