@@ -57,7 +57,8 @@ An open-source website, where ...
 Here are the exact steps we took to
 make [our website](https://codersforearth.com).
 We documented each step from ground-up,
-hoping that you can replicate it if you need to. 
+hoping that you can replicate it 
+relatively easily if you need to. 
 
 ...
 
