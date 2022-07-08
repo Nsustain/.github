@@ -116,7 +116,7 @@ One way of doing this would be setting up an
 email server on the VPS we just got, but
 we didn't need such complexity. All our email
 needs were such that just using an email
-forwarding service would meet all our needs. 
+forwarding service would solve all of them. 
 
 <br>
 <br>
