@@ -142,6 +142,14 @@ or you could even become a contributor
 of this website itself. 
 Our website is open-source.
 
+Plus, you could download various
+versions of our logo 
+[GitHub)[https://github.com/CodersForEarth/.github/blob/main/README.md],
+whose base image was created by `@realvjy` at
+[illlustrations.co](https://illlustrations.co).
+
+
+
 
 
 
