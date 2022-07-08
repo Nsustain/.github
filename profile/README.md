@@ -146,7 +146,7 @@ Plus, you could download various
 versions of
 [our logo](https://github.com/CodersForEarth/.github/blob/main/README.md),
 whose base image was created by `@realvjy` at
-[illlustrations.co](https://illlustrations.co).
+[illlustrations.co](https://illlustrations.co)
 
 
 
