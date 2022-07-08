@@ -51,8 +51,8 @@ graphics editor [Boxy SVG](https://boxy-svg.com/).
 We initially had a problem with our `.svg` file;
 its font would default back to the system font
 on `GitHub`. However, we were able to fix this 
-issue by choosing the `Convert texts to paths` 
-option on `BoxySVG` when exporting the image.
+issue by choosing the option `Convert texts to paths` 
+on `BoxySVG` when exporting the image.
 
 
 
