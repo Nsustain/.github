@@ -134,6 +134,10 @@ Techs used:
 Make our website into a `Docket` image.
 Why containerize and why not else.
 
+<!--- Installing docker
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04
+-->
+
 <br>
 <br>
 
