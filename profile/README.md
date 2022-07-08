@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-  <img src="logo_wide.svg?raw=true" width="350">
+  <img src="https://github.com/CodersForEarth/.github/blob/main/profile/logo_wide.svg?raw=true" width="350">
 </p>
 
 ---
