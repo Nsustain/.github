@@ -1,11 +1,6 @@
-# Logo Files
+# Official Logos
 
----
-
-<p align="center">
-  ![logo](./profile/logo.svg)
-  ***[logo.svg](https://github.com/CodersForEarth/.github/blob/main/profile/logo.svg)***
-</p>
+![logo](./profile/logo.svg)
 
 ---
 
