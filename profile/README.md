@@ -170,7 +170,7 @@ of this website itself, which is open-source.
 Plus, if you like our logo,
 you could download various versions of
 [our logo](https://github.com/CodersForEarth/.github/blob/main/README.md),
-whose base image was created by `@realvjy` at
+whose base illustration was painted by `@realvjy` at
 [illlustrations.co](https://illlustrations.co)
 
 
