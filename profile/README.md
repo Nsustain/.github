@@ -17,7 +17,7 @@
 ---
 
 
-Our organization webpage will be updated in a few months :)
+This page will be updated in a few months :)
 
 <!---
 Note on how the logo was created:
