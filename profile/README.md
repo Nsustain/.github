@@ -63,50 +63,73 @@ We documented each step from ground-up,
 hoping that you can replicate it 
 relatively easily if you need to. 
 
-...
+<br>
+<br>
 
 ## 1. Designing the web
+
+**Writing codes on a version-control system**<br>
+Techs used:
 `git`
 `GitHub`
 
 Create a `GitHub` repository because
 version control ...
 
-
-
+**Building the front-end**<br>
+Techs used:
 `javascript`
 `react.js`
 `next.js`
 
-Create the website.
+Create the website ...
 
-...
-
-#### Building the website's database
+**Building the website's database**<br>
+Techs used:
 `SQLite`
 `IBM Databases for etcd`
 
-...
+Blabla ...
+
+<br>
+<br>
 
 ## 2. Web Server
-`nginx` <br>
-[[Original article by Joe Morgan](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-react-application-with-nginx-on-ubuntu-20-04)]
 
-...
+[[Original article by Joe Morgan](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-react-application-with-nginx-on-ubuntu-20-04)]<br>
+Techs used:
+`nginx`
+
+Blabla ...
+
+<br>
+<br>
 
 ## 3. Containerization
+
+Techs used:
 `Docker`
 
 Make our website into a `Docket` image.
 Why containerize and why not else.
 
+<br>
+<br>
+
 ## 4. Virtual Private Server
+
+Techs used:
 `DigitalOcean`
 `Ubuntu Server`
 
 Get a VPS. Around $6 per month.
 
+<br>
+<br>
+
 ## 5. Container Orchestration System
+
+Techs used:
 `Kubernetes`
 `K3s`
 
@@ -130,6 +153,8 @@ Even when we deploy a new node or when
 we update our website, our website never
 goes offline thanks to `Kubernetes`.
 
+<br>
+<br>
 <p align="center">
   <b>WHAT NEXT?</b>
 </p>
