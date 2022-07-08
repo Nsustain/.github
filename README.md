@@ -35,6 +35,10 @@
 
 ---
 
+![logo_combined](./profile/logo_combined.svg)
+
+---
+
 <p align="center">
   <b>CREDITS</b>
 </p>
