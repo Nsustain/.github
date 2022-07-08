@@ -36,9 +36,12 @@ phase until at least the end of October.
 <br>
 
 <p align="center">
-  <a href="https://codersforearth.com">
-    <b>CODERS FOR EARTH</b>
-  </a>
+  <b>
+    CODERS FOR EARTH
+    <a href="https://codersforearth.com">
+      [Website]
+    </a>
+  </b>
 </p>
 
 <!---
