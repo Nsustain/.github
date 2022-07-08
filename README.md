@@ -39,22 +39,20 @@
   <b>CREDITS</b>
 </p>
 
-The original image of our logo
-was created by `@realvjy`.
-Thank you `@realvjy` again for open-sourcing it!
-
-After downloading the base image from
+We didn't have to design our logo ourselves,
+thanks to `@realvjy`, who published the owl on
 [illlustrations.co](https://illlustrations.co/)
-we edited it with `BoxySVG`, adding
-the text `CODERS FOR EARTH` with
-Google Fonts `Bungee` 89pt.
-By the way, we had a problem of
-our `.svg` file's font not rednering
-on GitHub correctly; the font would default 
-back to the system font, but we were able to 
-fix this issue by choosing the 
-`Convert texts to paths` option on 
-`BoxySVG`'s export settings.
+and made it open-source. Thank you, `@realvjy`!
+
+Plus, we added the text `CODERS FOR EARTH` with
+Google Fonts `Bungee` 89pt, using a vector 
+graphics editor [Boxy SVG](https://boxy-svg.com/).
+
+We initially had a problem with our `.svg` file;
+its font would default back to the system font
+on `GitHub`. However, we were able to fix this 
+issue by choosing the `Convert texts to paths` 
+option on `BoxySVG` when exporting the image.
 
 
 
