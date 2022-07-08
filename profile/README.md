@@ -95,6 +95,7 @@ Create the website.
 `Docker`
 
 Make our website into a `Docket` image.
+Why containerize and why not else.
 
 ## 4. Virtual Private Server
 `DigitalOcean`
@@ -107,6 +108,9 @@ Get a VPS. Around $6 per month.
 `K3s`
 
 Explanation on high availability.
+Why `K3s` and not else, showing
+the how and why behind 
+our design & architecture choices.
 
 Install `K3s`.
 
