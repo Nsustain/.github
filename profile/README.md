@@ -47,6 +47,9 @@ phase until at least the end of October.
 <!---
 
 An open-source website, where ...
+Why we are working so hard on
+this website. Why we believe in this,
+and why we believe this will help you, too.
 
 -->
 
@@ -126,3 +129,21 @@ on our `K3s` as a worker node.
 Even when we deploy a new node or when
 we update our website, our website never
 goes offline thanks to `Kubernetes`.
+
+<p align="center">
+  <b>WHAT NEXT?</b>
+</p>
+
+You could to 
+[our website](https://codersforearth.com)
+and see if there's any project
+you'd love to invest your time in,
+or you could even become a contributor
+of this website itself. Our website is fully
+open-source.
+
+
+
+
+
+
