@@ -131,6 +131,13 @@ forwarding service would solve all of them.
 https://blog.prutser.net/2021/01/20/how-to-securely-self-host-a-website-or-web-app/
 It also takes care of issuing SSL certificates.
 
+The traffic between the user and Cloudflare
+is automatically SSL encrypted, but the traffic
+between Cloudflare and our server needs one
+extra step to be SSL encrypted -- i.e.
+download the `Cloudflare-issued SSL certificate`
+on their settings and install it in our server.
+
 <br>
 <br>
 
