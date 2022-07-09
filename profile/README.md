@@ -123,6 +123,11 @@ We could just use one email account.
 All our email needs were such that just using an email
 forwarding service would solve all of them. 
 
+**Setting up remote caching and DDoS protection**
+`Cloudflare`
+
+It also takes care of issuing SSL certificates.
+
 <br>
 <br>
 
