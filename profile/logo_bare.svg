@@ -18,7 +18,7 @@
 	.st13{opacity:0.31;fill:none;stroke:#72C8D6;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 </style>
   </defs>
-  <rect class="st0" width="1000" height="1000"/>
+  <rect class="st0" width="1000" height="1000" style="opacity: 0;"/>
   <g>
     <ellipse id="XMLID_2_" class="st2" cx="501.8" cy="487.5" rx="228" ry="205.8"/>
     <ellipse id="XMLID_188_" class="st2" cx="501.8" cy="487.5" rx="228" ry="205.8"/>
