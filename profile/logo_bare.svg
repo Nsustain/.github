@@ -18,8 +18,7 @@
 	.st13{opacity:0.31;fill:none;stroke:#72C8D6;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 </style>
   </defs>
-  <rect class="st0" width="1000" height="1000" style="opacity: 0;"/>
-  <g>
+  <g transform="matrix(1.226342, 0, 0, 1.226342, -114.944641, -112.22216)" style="">
     <ellipse id="XMLID_2_" class="st2" cx="501.8" cy="487.5" rx="228" ry="205.8"/>
     <ellipse id="XMLID_188_" class="st2" cx="501.8" cy="487.5" rx="228" ry="205.8"/>
     <path id="XMLID_193_" class="st3" d="M507.8,689.3c52.1,0,100.1-15.3,138.5-41l-10.5-24.7c-22-51.9-74.2-85.8-132.1-85.8l0,0 c-57.9,0-110.1,33.9-132.1,85.8l-8.6,20.4C402.3,672.3,452.8,689.3,507.8,689.3z"/>
