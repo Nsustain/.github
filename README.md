@@ -35,10 +35,6 @@
 
 ---
 
-![logo_1920x600](./profile/logo_1920x600.svg)
-
----
-
 <p align="center">
   <b>CREDITS</b>
 </p>
