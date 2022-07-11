@@ -64,7 +64,11 @@ We initially had a problem with our .svg files;
 fonts would default back to the system font
 on GitHub. However, we were able to fix this 
 issue by choosing the option `Convert texts to paths` 
-on BoxySVG when exporting the image.
+on BoxySVG on the export option.
+
+<br>
+<br>
+<br>
 
 
 
