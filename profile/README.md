@@ -32,11 +32,7 @@
   </b>
 </p>
 
-
-An open-source website, where ...
-Why we are working so hard on
-this website. Why we believe in this,
-and why we believe this will help you, too.
+An open-source website for the environment and sustainability.
 
 <br>
 <br>
@@ -52,7 +48,9 @@ and why we believe this will help you, too.
   </b>
 </p>
 
-This repository ...
+This repository contains all of our
+website's source code. It also shows
+exactly how we built our website.
 
 <br>
 <br>
@@ -66,4 +64,33 @@ This repository ...
   </b>
 </p>
 
-This repository ...
+The maintenance page is used in the
+unlikely event of software / hardware
+failure in our main server. Our
+maintenance page is designed such that
+we can deploy it just by cloning
+this repository and using docker-compose
+to load the official docker nginx image.
+All our source code and how we use this
+repository to deploy our maintenance page
+is documented on this repository's `README.MD`.
+
+<br>
+<br>
+
+<p align="center">
+  <b>
+    Official Logo<br>
+    <a href="https://github.com/CodersForEarth/.github">
+      [GitHub Repository]
+    </a>
+  </b>
+</p>
+
+Various versions of our official logo
+are all maintained in this repository.
+Our owl, by the way, represents coders.
+If you look at its claws, you can see
+that it's typing.
+
+
