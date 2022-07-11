@@ -56,7 +56,7 @@ or become a contributor to maintaining our website.
 <br>
 
 ## Steps
-- [1. Designing the website](#1. Designing the website)
+- [1](#Designing the website). Designing the website
   - [Back-end](#Back-end)
   - [Front-end](#Front-end)
 - [2. Containerizing the website](#2. Containerizing the website)
@@ -65,7 +65,7 @@ or become a contributor to maintaining our website.
 - [5. Getting a server](#5. Getting a server)
 
 
-## 1. Designing the website
+## Designing the website
 
 **Writing codes on a version-control system**<br>
 Techs used:
