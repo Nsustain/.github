@@ -39,14 +39,7 @@ An open-source website for the environment and sustainability.
 
 ## Repositories
 
-<p align="center">
-  <b>
-    Website Source Code<br>
-    <a href="https://github.com/CodersForEarth/codersforearth.com">
-      [GitHub Repository]
-    </a>
-  </b>
-</p>
+**CodersForEarth.com Source Code [[GitHub Repo](https://github.com/CodersForEarth/codersforearth.com)]**
 
 This repository contains all of our
 website's source code. It also shows
@@ -55,14 +48,7 @@ exactly how we built our website.
 <br>
 <br>
 
-<p align="center">
-  <b>
-    Maintenance Page Source Code<br>
-    <a href="https://github.com/CodersForEarth/maintenance-page">
-      [GitHub Repository]
-    </a>
-  </b>
-</p>
+**Maintenance Page Source Code [[GitHub Repo]](https://github.com/CodersForEarth/maintenance-page)]**
 
 The maintenance page is used in the
 unlikely event of software / hardware
@@ -77,14 +63,7 @@ is documented on this repository's `README.MD`.
 <br>
 <br>
 
-<p align="center">
-  <b>
-    Official Logo<br>
-    <a href="https://github.com/CodersForEarth/.github">
-      [GitHub Repository]
-    </a>
-  </b>
-</p>
+**Official Logo [[GitHub Repo](https://github.com/CodersForEarth/.github)]**
 
 Various versions of our official logo
 are all maintained in this repository.
