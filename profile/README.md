@@ -30,7 +30,9 @@
       [Official Website]
     </a>
   </b>
+
   An open-source website for the environment and sustainability.
+
 </p>
 
 <br>
