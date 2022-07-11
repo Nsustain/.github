@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg viewBox="-286.198 -122.208 1920 600" xmlns="http://www.w3.org/2000/svg">
+  <rect x="-286.2" y="-122.2" width="1920" height="600" style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255);"/>
   <g transform="matrix(0.643634, 0, 0, 0.643634, 352.296967, -210.797638)" style="">
     <ellipse id="XMLID_2_" class="st2" cx="501.8" cy="487.5" rx="228" ry="205.8" style="fill: rgb(143, 227, 249);"/>
     <ellipse id="XMLID_188_" class="st2" cx="501.8" cy="487.5" rx="228" ry="205.8" style="fill: rgb(143, 227, 249);"/>
