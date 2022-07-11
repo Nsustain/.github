@@ -55,12 +55,34 @@ or become a contributor to maintaining our website.
 <br>
 <br>
 
-## 1. Designing the web
+## Steps
+
+- [1. Designing the website](#1. Designing the website)
+  - [Back-end](#Back-end)
+  - [Front-end](#Front-end)
+- [2. Containerizing the website](#2. Containerizing the website)
+- [3. Implementing container orchestration system](#3. Implementing container orchestration system)
+- [4. Getting a domain name](#4. Getting a domain name)
+- [5. Getting a server](#5. Getting a server)
+
+
+## 1. Designing the website
 
 **Writing codes on a version-control system**<br>
 Techs used:
 `git`
 `GitHub`
+
+### Back-end
+
+**Building the website's database**<br>
+Techs used:
+`SQLite`
+`IBM Databases for etcd`
+
+Blabla ...
+
+### Front-end
 
 Create a `GitHub` repository because
 version control ...
@@ -72,13 +94,6 @@ Techs used:
 `next.js`
 
 Create the website ...
-
-**Building the website's database**<br>
-Techs used:
-`SQLite`
-`IBM Databases for etcd`
-
-Blabla ...
 
 <br>
 <br>
