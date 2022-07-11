@@ -25,7 +25,7 @@
 
 <p align="center">
   <b>
-    CODERS FOR EARTH<br>
+    CodersForEarth.com<br>
     <a href="https://codersforearth.com">
       [Official Website]
     </a>
@@ -41,14 +41,27 @@ and why we believe this will help you, too.
 <br>
 <br>
 
-# Repositories
-
-**CodersForEarth.com
-[[GitHub Repo](https://github.com/CodersForEarth/codersforearth.com)]**
+<p align="center">
+  <b>
+    Website Source Code<br>
+    <a href="https://github.com/CodersForEarth/codersforearth.com">
+      [GitHub Repository]
+    </a>
+  </b>
+</p>
 
 This repository ...
 
-**Maintenance Page
-[[GitHub Repo](https://github.com/CodersForEarth/maintenance-page)]**
+<br>
+<br>
+
+<p align="center">
+  <b>
+    Maintenance Page Source Code<br>
+    <a href="https://github.com/CodersForEarth/maintenance-page">
+      [GitHub Repository]
+    </a>
+  </b>
+</p>
 
 This repository ...
