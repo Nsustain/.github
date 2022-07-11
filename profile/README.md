@@ -60,15 +60,15 @@ By the way, the white space in front of [1.1] and [1.2]
 is the unicode em space: (  )
 -->
 ## Steps
-[1.](#designing-the-website) Designing the website<br>
+[1.](#1.-designing-the-website) Designing the website<br>
   [1.1](#back-end) Back-end<br>
   [1.2](#front-end) Front-end<br>
-[2.](#containerizing-the-website) Containerizing the website<br>
-[3.](#deploying-a-container-orchestration-system) Deploying a container orchestration system<br>
-[4.](#getting-a-domain-name) Getting a domain name<br>
-[5.](#getting-a-server) Getting a server
+[2.](#2.-containerizing-the-website) Containerizing the website<br>
+[3.](#3.-deploying-a-container-orchestration-system) Deploying a container orchestration system<br>
+[4.](#4.-getting-a-domain-name) Getting a domain name<br>
+[5.](#5.-getting-a-server) Getting a server
 
-## Designing the website
+## 1. Designing the website
 
 **Writing codes on a version-control system**<br>
 Techs used:
@@ -100,7 +100,7 @@ Create the website ...
 <br>
 <br>
 
-## Containerizing the website
+## 2. Containerizing the website
 Techs used:
 `Docker`
 
@@ -117,7 +117,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-d
 <br>
 <br>
 
-## Deploying a container orchestration system
+## 3. Deploying a container orchestration system
 Techs used:
 `Kubernetes`
 `K3s`
@@ -145,7 +145,7 @@ goes offline thanks to `Kubernetes`.
 <br>
 <br>
 
-## Getting a domain name
+## 4. Getting a domain name
 Techs used:
 `Google Domains`
 
@@ -183,7 +183,7 @@ on their settings and install it in our server.
 <br>
 <br>
 
-## Getting a server
+## 5. Getting a server
 Techs used:
 `DigitalOcean`
 `Ubuntu Server`
