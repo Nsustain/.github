@@ -55,16 +55,16 @@ Thank you `@realvjy` for designing this logo at
 [illlustrations.co](https://illlustrations.co/)
 and making it open-source.
 
-Our project name `CODERS FOR EARTH` was added by using
+Our project name *Coders for Earth* was added by using
 a vector-graphics editor called 
 [Boxy SVG](https://boxy-svg.com/),
-with Google Fonts `Bungee` 89pt.
+with Google Fonts Bungee 89pt.
  
-We initially had a problem with our `.svg` file;
-its font would default back to the system font
-on `GitHub`. However, we were able to fix this 
+We initially had a problem with our .svg files;
+fonts would default back to the system font
+on GitHub. However, we were able to fix this 
 issue by choosing the option `Convert texts to paths` 
-on `BoxySVG` when exporting the image.
+on BoxySVG when exporting the image.
 
 
 
