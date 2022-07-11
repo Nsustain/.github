@@ -56,14 +56,13 @@ or become a contributor to maintaining our website.
 <br>
 
 ## Steps
-- [1](#Designing the website). Designing the website
-  - [Back-end](#Back-end)
-  - [Front-end](#Front-end)
-- [2. Containerizing the website](#2. Containerizing the website)
-- [3. Implementing container orchestration system](#3. Implementing container orchestration system)
-- [4. Getting a domain name](#4. Getting a domain name)
-- [5. Getting a server](#5. Getting a server)
-
+[1.](#designing-the-website) Designing the website<br>
+ [1.1](#Back-end) Back-end<br>
+ [1.2](#Front-end) Front-end<br>
+[2.](#containerizing-the-website) Containerizing the website<br>
+[3.](#deploying-a-container-orchestration-system) Deploying a container orchestration system<br>
+[4.](#getting-a-domain-name) Getting a domain name<br>
+[5.](#getting-a-server) Getting a server
 
 ## Designing the website
 
@@ -97,16 +96,52 @@ Create the website ...
 <br>
 <br>
 
-## 2. Web Server
-
-**Hosting a Virtual Private Server**<br>
-[[Original article by Joe Morgan](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-react-application-with-nginx-on-ubuntu-20-04)]<br>
+## Containerizing the website
 Techs used:
-`nginx`
+`Docker`
 
-Blabla ...
+Make our website into a `Docket` image.
+Why containerize and why not else.
 
-**Getting a domain name**<br>
+<!--- Installing docker
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04
+
+Using docker compose
+https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-docker-compose
+-->
+
+<br>
+<br>
+
+## Deploying a container orchestration system
+Techs used:
+`Kubernetes`
+`K3s`
+
+Explanation on high availability.
+Why `K3s` and not else, showing
+the how and why behind 
+our design & architecture choices.
+
+Install `K3s`.
+
+Configure the `K3s` to pull our website
+in the form of a `Docker` image.
+
+Note: The reason why we use `Kubernetes`.
+When our website gains more popularity,
+server capability can be upscaled by
+getting another VPS and then adding it
+on our `K3s` as a worker node.
+
+Even when we deploy a new node or when
+we update our website, our website never
+goes offline thanks to `Kubernetes`.
+
+<br>
+<br>
+
+## Getting a domain name
 Techs used:
 `Google Domains`
 
@@ -144,63 +179,23 @@ on their settings and install it in our server.
 <br>
 <br>
 
-## 3. Containerization
-
-Techs used:
-`Docker`
-
-Make our website into a `Docket` image.
-Why containerize and why not else.
-
-<!--- Installing docker
-https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04
-
-Using docker compose
-https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-docker-compose
--->
-
-<br>
-<br>
-
-## 4. Virtual Private Server
-
+## Getting a server
 Techs used:
 `DigitalOcean`
 `Ubuntu Server`
 
 Get a VPS. Around $6 per month.
 
-<br>
-<br>
-
-## 5. Container Orchestration System
-
+**Hosting a Virtual Private Server**<br>
+[[Original article by Joe Morgan](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-react-application-with-nginx-on-ubuntu-20-04)]<br>
 Techs used:
-`Kubernetes`
-`K3s`
+`nginx`
 
-Explanation on high availability.
-Why `K3s` and not else, showing
-the how and why behind 
-our design & architecture choices.
-
-Install `K3s`.
-
-Configure the `K3s` to pull our website
-in the form of a `Docker` image.
-
-Note: The reason why we use `Kubernetes`.
-When our website gains more popularity,
-server capability can be upscaled by
-getting another VPS and then adding it
-on our `K3s` as a worker node.
-
-Even when we deploy a new node or when
-we update our website, our website never
-goes offline thanks to `Kubernetes`.
+Blabla ...
 
 <br>
 <br>
+
 <p align="center">
   <b>WHAT NEXT?</b>
 </p>
