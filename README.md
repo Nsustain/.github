@@ -20,12 +20,7 @@
 ---
 
 <p align="center">
-  <b>
-    OFFICIAL LOGO<br>
-    <a href="https://github.com/CodersForEarth/.github/tree/main/profile">
-      [GitHub Repository]
-    </a>
-  </b>
+  <b>OFFICIAL LOGO</b>
 </p>
 
 ![logo](./profile/logo_bare.svg)
