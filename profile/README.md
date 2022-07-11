@@ -50,7 +50,7 @@ We documented each step from ground-up,
 so that you can replicate it 
 relatively easily if you'd like to
 make another website based on our website
-or become a contributor to maintaining our website.
+or become a contributor to our project.
 
 <br>
 <br>
