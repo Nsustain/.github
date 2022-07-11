@@ -48,7 +48,7 @@ exactly how we built our website.
 <br>
 <br>
 
-**Maintenance Page Source Code [[GitHub Repo]](https://github.com/CodersForEarth/maintenance-page)]**
+**Maintenance Page Source Code [[GitHub Repo](https://github.com/CodersForEarth/maintenance-page)]**
 
 The maintenance page is used in the
 unlikely event of software / hardware
@@ -65,8 +65,8 @@ is documented on this repository's `README.MD`.
 
 **Official Logo [[GitHub Repo](https://github.com/CodersForEarth/.github)]**
 
-Various versions of our official logo
-are all maintained in this repository.
+We have various versions of our official
+logo maintained in this repository.
 Our owl, by the way, represents coders.
 If you look at its claws, you can see
 that it's typing.
