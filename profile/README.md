@@ -29,7 +29,7 @@
     <a href="https://codersforearth.com">
       [Official Website]
     </a>
-  </b>
+  </b><br>
   An open-source website for the environment and sustainability.
 </p>
 
@@ -38,8 +38,7 @@
 
 ## Repositories
 
-**CodersForEarth.com Source Code [[GitHub Repo](https://github.com/CodersForEarth/codersforearth.com)]**
-
+**CodersForEarth.com Source Code [[GitHub Repo](https://github.com/CodersForEarth/codersforearth.com)]**<br>
 This repository contains all of our
 website's source code. It also shows
 exactly how we built our website.
@@ -47,8 +46,7 @@ exactly how we built our website.
 <br>
 <br>
 
-**Maintenance Page Source Code [[GitHub Repo](https://github.com/CodersForEarth/maintenance-page)]**
-
+**Maintenance Page Source Code [[GitHub Repo](https://github.com/CodersForEarth/maintenance-page)]**<br>
 The maintenance page is used in the
 unlikely event of software / hardware
 failure in our main server. Our
@@ -62,8 +60,7 @@ is documented on this repository's `README.MD`.
 <br>
 <br>
 
-**Official Logo [[GitHub Repo](https://github.com/CodersForEarth/.github)]**
-
+**Official Logo [[GitHub Repo](https://github.com/CodersForEarth/.github)]**<br>
 We have various versions of our official
 logo maintained in this repository.
 Our owl, by the way, represents coders.
