@@ -51,10 +51,10 @@ with the size of 1280x640
   <b>CREDITS</b>
 </p>
 
-We didn't have to design our logo ourselves,
-thanks to `@realvjy`, who published the owl on
+Thank you `@realvjy` for designing this logo at
 [illlustrations.co](https://illlustrations.co/)
-and made it open-source. Thank you, `@realvjy`!
+and making it open-source.
+
 Our project name `CODERS FOR EARTH` was added by using
 a vector-graphics editor called 
 [Boxy SVG](https://boxy-svg.com/),
