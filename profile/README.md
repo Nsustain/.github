@@ -56,7 +56,6 @@ or become a contributor to maintaining our website.
 <br>
 
 ## Steps
-
 - [1. Designing the website](#1. Designing the website)
   - [Back-end](#Back-end)
   - [Front-end](#Front-end)
