@@ -25,7 +25,7 @@
 
 <p align="center">
   <b>
-    Coders For Earth<br>
+    Coders for Earth<br>
     <a href="https://codersforearth.com">
       [Official Website]
     </a>
