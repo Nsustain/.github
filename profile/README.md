@@ -68,14 +68,14 @@ is the unicode em space: (  )
 [4.](#4.-getting-a-domain-name) Getting a domain name<br>
 [5.](#5.-getting-a-server) Getting a server
 
-## 1. Designing the website
+# 1. Designing the website
 
 **Writing codes on a version-control system**<br>
 Techs used:
 `git`
 `GitHub`
 
-### Back-end
+## Back-end
 
 **Building the website's database**<br>
 Techs used:
@@ -84,7 +84,7 @@ Techs used:
 
 Blabla ...
 
-### Front-end
+## Front-end
 
 Create a `GitHub` repository because
 version control ...
@@ -100,7 +100,7 @@ Create the website ...
 <br>
 <br>
 
-## 2. Containerizing the website
+# 2. Containerizing the website
 Techs used:
 `Docker`
 
@@ -117,7 +117,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-d
 <br>
 <br>
 
-## 3. Deploying a container orchestration system
+# 3. Deploying a container orchestration system
 Techs used:
 `Kubernetes`
 `K3s`
@@ -145,7 +145,7 @@ goes offline thanks to `Kubernetes`.
 <br>
 <br>
 
-## 4. Getting a domain name
+# 4. Getting a domain name
 Techs used:
 `Google Domains`
 
@@ -183,7 +183,7 @@ on their settings and install it in our server.
 <br>
 <br>
 
-## 5. Getting a server
+# 5. Getting a server
 Techs used:
 `DigitalOcean`
 `Ubuntu Server`
