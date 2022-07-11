@@ -29,7 +29,7 @@
     <a href="https://codersforearth.com">
       [Official Website]
     </a>
-  </b><br>
+  </b>
   An open-source website for the environment and sustainability.
 </p>
 
@@ -44,7 +44,6 @@ website's source code. It also shows
 exactly how we built our website.
 
 <br>
-<br>
 
 **Maintenance Page Source Code [[GitHub Repo](https://github.com/CodersForEarth/maintenance-page)]**<br>
 The maintenance page is used in the
@@ -57,7 +56,6 @@ to load the official docker nginx image.
 All our source code and how to use it
 is documented on this repository's `README.MD`.
 
-<br>
 <br>
 
 **Official Logo [[GitHub Repo](https://github.com/CodersForEarth/.github)]**<br>
