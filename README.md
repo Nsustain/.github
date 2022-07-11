@@ -58,7 +58,8 @@ and making it open-source.
 Our project name *Coders for Earth* was added by using
 a vector-graphics editor called 
 [Boxy SVG](https://boxy-svg.com/),
-with Google Fonts Bungee 89pt.
+with *Bungee* 89pt. 
+[[Google Fonts](https://fonts.google.com/specimen/Bungee)]
  
 We initially had a problem with our .svg files;
 fonts would default back to the system font
