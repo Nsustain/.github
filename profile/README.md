@@ -47,9 +47,9 @@ Here are the exact steps we took to
 make [CodersForEarth.com](https://codersforearth.com)
 
 We documented each step from ground-up,
-hoping that you can replicate it 
+so that you can replicate it 
 relatively easily if you'd like to
-make another website based on our website,
+make another website based on our website
 or become a contributor to maintaining our website.
 
 <br>
