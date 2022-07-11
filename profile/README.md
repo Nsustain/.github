@@ -38,8 +38,6 @@ this website. Why we believe in this,
 and why we believe this will help you, too.
 
 <br>
-<br>
-<br>
 
 <p align="center">
   <b>HOW OUR WEBSITE WAS MADE</b>
