@@ -152,7 +152,7 @@ goes offline thanks to Kubernetes.
 Techs used:
 `Google Domains`
 
-Our domain name [CodersForEarth.com](codersforearth.com)
+Our domain name [CodersForEarth.com](https://codersforearth.com)
 costs $12 per year.
 
 **(Optional) Setting up a custom-domain email forwarding service**<br>
