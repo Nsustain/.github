@@ -32,7 +32,7 @@
   </b>
   <br>
   <br>
-  An open-source website for the environment and sustainability.
+  An open-source community for the environment and sustainability.
 </p>
 
 <br>
