@@ -107,7 +107,7 @@ Create the website ...
 Techs used:
 `Docker`
 
-Make our website into a `Docket` image.
+Make our website into a Docker image.
 Why containerize and why not else.
 
 <!--- Installing docker
@@ -126,24 +126,24 @@ Techs used:
 `K3s`
 
 Explanation on high availability.
-Why `K3s` and not else, showing
+Why K3s and not else, showing
 the how and why behind 
 our design & architecture choices.
 
-Install `K3s`.
+Install K3s.
 
-Configure the `K3s` to pull our website
-in the form of a `Docker` image.
+Configure the K3s to pull our website
+in the form of a Docker image.
 
-Note: The reason why we use `Kubernetes`.
+Note: The reason why we use Kubernetes.
 When our website gains more popularity,
 server capability can be upscaled by
 getting another VPS and then adding it
-on our `K3s` as a worker node.
+on our K3s as a worker node.
 
 Even when we deploy a new node or when
 we update our website, our website never
-goes offline thanks to `Kubernetes`.
+goes offline thanks to Kubernetes.
 
 <br>
 <br>
@@ -152,7 +152,7 @@ goes offline thanks to `Kubernetes`.
 Techs used:
 `Google Domains`
 
-Our domain name `codersforearth.com`
+Our domain name [CodersForEarth.com](codersforearth.com)
 costs $12 per year.
 
 **(Optional) Setting up a custom-domain email forwarding service**<br>
@@ -180,7 +180,7 @@ The traffic between the user and Cloudflare
 is automatically SSL encrypted, but the traffic
 between Cloudflare and our server needs one
 extra step to be SSL encrypted -- i.e.
-download the `Cloudflare-issued SSL certificate`
+download the "Cloudflare-issued SSL certificate"
 on their settings and install it in our server.
 
 <br>
