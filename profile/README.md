@@ -40,14 +40,16 @@
 
 ## Repositories
 
-**CodersForEarth.com Source Code [[GitHub Repo](https://github.com/CodersForEarth/codersforearth.com)]**<br>
+**CodersForEarth.com Source Code [[GitHub Repo](https://github.com/CodersForEarth/codersforearth.com)]**
+
 This repository contains all of our
 website's source code. It also shows
 exactly how we built our website.
 
 <br>
 
-**Maintenance Page Source Code [[GitHub Repo](https://github.com/CodersForEarth/maintenance-page)]**<br>
+**Maintenance Page Source Code [[GitHub Repo](https://github.com/CodersForEarth/maintenance-page)]**
+
 The maintenance page is used in the
 unlikely event of software / hardware
 failure in our main server. Our
@@ -60,7 +62,8 @@ is documented on this repository's `README.MD`.
 
 <br>
 
-**Official Logo [[GitHub Repo](https://github.com/CodersForEarth/.github)]**<br>
+**Official Logo [[GitHub Repo](https://github.com/CodersForEarth/.github)]**
+
 We have various versions of our official
 logo maintained in this repository.
 Our owl, by the way, represents coders.
