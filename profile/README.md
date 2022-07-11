@@ -40,29 +40,15 @@ and why we believe this will help you, too.
 
 <br>
 <br>
-<br>
 
 # Repositories
 
 **CodersForEarth.com
-[[GitHub Repo](https://github.com/CodersForEarth/codersforearth.com)]**j
+[[GitHub Repo](https://github.com/CodersForEarth/codersforearth.com)]**
 
 This repository ...
 
 **Maintenance Page
-[[GitHub Repo](https://github.com/CodersForEarth/maintenance-page)]**j
+[[GitHub Repo](https://github.com/CodersForEarth/maintenance-page)]**
 
-
-
-<br>
-
-<p align="center">
-  <b>
-    CODERS FOR EARTH
-    <a href="https://github.com/CodersForEarth/codersforearth.com">
-      [GitHub]
-    </a>
-  </b>
-</p>
-
-
+This repository ...
