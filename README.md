@@ -35,6 +35,17 @@
 
 ---
 
+<!-- 
+This image is for the social preview
+meta tag for our website.
+
+Social preview is optimized for pictures
+with the size of 1280x640
+-->
+![logo_1280x640](./profile/logo_1280x640.svg)
+
+---
+
 <p align="center">
   <b>CREDITS</b>
 </p>
