@@ -28,9 +28,11 @@
     CodersForEarth.com<br>
     <a href="https://codersforearth.com">
       [Official Website]
-    </a><br><br>
-    An open-source website for the environment and sustainability.
+    </a>
   </b>
+  <br>
+  <br>
+  An open-source website for the environment and sustainability.
 </p>
 
 <br>
