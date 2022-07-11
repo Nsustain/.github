@@ -21,7 +21,7 @@
 
 <p align="center">
   <b>
-    OFFICIAL LOGO
+    OFFICIAL LOGO<br>
     <a href="https://github.com/CodersForEarth/.github/tree/main/profile">
       [GitHub Repository]
     </a>
