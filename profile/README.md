@@ -58,10 +58,13 @@ and why we believe this will help you, too.
 </p>
 
 Here are the exact steps we took to
-make [our website](https://codersforearth.com).
+make [CodersForEarth.com](https://codersforearth.com)
+
 We documented each step from ground-up,
 hoping that you can replicate it 
-relatively easily if you need to. 
+relatively easily if you'd like to
+make another website based on our website,
+or become a contributor to maintaining our website.
 
 <br>
 <br>
@@ -207,7 +210,7 @@ You could go to
 and see if there's any project
 you'd love to invest your time in,
 or you could even become a contributor
-of this website itself, which is open-source.
+of this website itself, which - of course - is open-source.
 [[GitHub](https://github.com/CodersForEarth/codersforearth.com)]
 
 Plus, if you like our logo,
