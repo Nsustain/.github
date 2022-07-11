@@ -65,7 +65,7 @@ is documented on this repository's `README.MD`.
 **Official Logo [[GitHub Repo](https://github.com/CodersForEarth/.github)]**
 
 We have various versions of our official
-logo maintained in this repository.
+logo maintained at this repository.
 Our owl, by the way, represents coders.
 If you look at its claws, you can see
 that it's typing.
