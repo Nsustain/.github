@@ -36,7 +36,7 @@
 ---
 
 
-<!-- 
+<!--
 This image is for the social preview
 meta tag for our website.
 
@@ -56,15 +56,15 @@ Thank you `@realvjy` for designing this logo at
 and making it open-source.
 
 Our project name *Coders for Earth* was added by using
-a vector-graphics editor called 
+a vector-graphics editor called
 [Boxy SVG](https://boxy-svg.com/),
-with *Bungee* 89pt. 
+with *Bungee* 89pt.
 [[Google Fonts](https://fonts.google.com/specimen/Bungee)]
- 
+
 We initially had a problem with our .svg files;
 fonts would default back to the system font
-on GitHub. However, we were able to fix this 
-issue by choosing the option `Convert texts to paths` 
+on GitHub. However, we were able to fix this
+issue by choosing the option `Convert texts to paths`
 on BoxySVG on the export option.
 
 <br>
