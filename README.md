@@ -47,6 +47,10 @@ with the size of 1280x640
 
 ---
 
+![logo_favicon](./logo/favicon.svg)
+
+---
+
 <p align="center">
   <b>CREDITS</b>
 </p>
