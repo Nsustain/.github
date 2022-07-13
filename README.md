@@ -27,11 +27,6 @@
 
 ---
 
-![logo_favicon](./logo/favicon.svg)
-
----
-
-
 ![logo](./logo/logo.svg)
 
 ---
