@@ -18,7 +18,7 @@
 	.st13{opacity:0.31;fill:none;stroke:#72C8D6;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 </style>
     <style bx:fonts="Bungee">@import url(https://fonts.googleapis.com/css2?family=Bungee%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
-    <style bx:fonts="Raleway">@import url(https://fonts.googleapis.com/css2?family=Raleway%3Aital%2Cwght%400%2C100%3B0%2C200%3B0%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B0%2C800%3B0%2C900%3B1%2C100%3B1%2C200%3B1%2C300%3B1%2C400%3B1%2C500%3B1%2C600%3B1%2C700%3B1%2C800%3B1%2C900&amp;display=swap);</style>
+    <style bx:fonts="Maven Pro">@import url(https://fonts.googleapis.com/css2?family=Maven+Pro%3Aital%2Cwght%400%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B0%2C800%3B0%2C900&amp;display=swap);</style>
   </defs>
   <rect class="st0" width="1000" height="1000" style="opacity: 1;"/>
   <g transform="matrix(1, 0, 0, 1, 0, -41)">
@@ -85,5 +85,5 @@
     <path id="XMLID_6_" class="st12" d="M561.7,624.1c0,8.4-6.8,15.2-15.2,15.2c-8.4,0-15.2-6.8-15.2-15.2"/>
   </g>
   <text style="fill: rgb(65, 61, 81); font-family: Bungee; font-size: 89px; white-space: pre;" x="140.239" y="740.709">nsustain.com</text>
-  <text style="fill: rgb(65, 61, 81); font-family: Raleway; font-size: 52px; letter-spacing: 1.4px; white-space: pre;" x="142.239" y="797.008">environment &amp; sustainability</text>
+  <text style="fill: rgb(65, 61, 81); font-family: &quot;Maven Pro&quot;; font-size: 52px; letter-spacing: 1.5px; white-space: pre;" x="142.239" y="797.008">environment &amp; sustainability</text>
 </svg>
