@@ -67,10 +67,3 @@ logo maintained at this repository.
 Our owl, by the way, represents coders.
 If you look at its claws, you can see
 that it's typing.
-
-<p align="center">
-  <a href="https://nsustain.com">
-    <img src="https://user-images.githubusercontent.com/19341857/178199173-a8feb15d-39ff-45a1-b9f6-aa5aac2caada.svg" width="500">
-  <a>
-</p>
-
