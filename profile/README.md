@@ -53,7 +53,7 @@ unlikely event of software / hardware
 failure in our main server. Our
 maintenance page is designed such that
 we can deploy it just by cloning
-this repository and using `docker-compose`
+this repository and using `docker compose`
 to load the official docker nginx image.
 All our source code and how to use it
 is documented on this repository's `README.MD`.
