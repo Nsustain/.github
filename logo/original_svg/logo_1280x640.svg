@@ -18,10 +18,10 @@
 	.st13{opacity:0.31;fill:none;stroke:#72C8D6;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 </style>
     <style bx:fonts="Bungee">@import url(https://fonts.googleapis.com/css2?family=Bungee%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
-    <style bx:fonts="Bungee Hairline">@import url(https://fonts.googleapis.com/css2?family=Bungee+Hairline%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
+    <style bx:fonts="Raleway">@import url(https://fonts.googleapis.com/css2?family=Raleway%3Aital%2Cwght%400%2C100%3B0%2C200%3B0%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B0%2C800%3B0%2C900%3B1%2C100%3B1%2C200%3B1%2C300%3B1%2C400%3B1%2C500%3B1%2C600%3B1%2C700%3B1%2C800%3B1%2C900&amp;display=swap);</style>
   </defs>
   <rect class="st0" width="1280" height="640" style="opacity: 1;"/>
-  <g transform="matrix(0.563983, 0, 0, 0.563983, 358.036285, -73.689796)" style="">
+  <g transform="matrix(0.563983, 0, 0, 0.563983, 357.720734, -8.566069)" style="">
     <ellipse id="XMLID_2_" class="st2" cx="501.8" cy="487.5" rx="228" ry="205.8"/>
     <ellipse id="XMLID_188_" class="st2" cx="501.8" cy="487.5" rx="228" ry="205.8"/>
     <path id="XMLID_193_" class="st3" d="M507.8,689.3c52.1,0,100.1-15.3,138.5-41l-10.5-24.7c-22-51.9-74.2-85.8-132.1-85.8l0,0 c-57.9,0-110.1,33.9-132.1,85.8l-8.6,20.4C402.3,672.3,452.8,689.3,507.8,689.3z"/>
@@ -84,7 +84,6 @@
     <path id="XMLID_7_" class="st12" d="M515.2,624.1c0,8.4-6.8,15.2-15.2,15.2s-15.2-6.8-15.2-15.2"/>
     <path id="XMLID_6_" class="st12" d="M561.7,624.1c0,8.4-6.8,15.2-15.2,15.2c-8.4,0-15.2-6.8-15.2-15.2"/>
   </g>
-  <text style="fill: rgb(65, 61, 81); font-family: Bungee; font-size: 50.2px; white-space: pre;" x="437.129" y="367.181">nsustain.com</text>
-  <text style="fill: rgb(51, 51, 51); font-family: &quot;Bungee Hairline&quot;; font-size: 83px; text-anchor: middle; white-space: pre;" x="640" y="471.727">FOR ENVIRONMENT</text>
-  <text style="fill: rgb(51, 51, 51); font-family: &quot;Bungee Hairline&quot;; font-size: 83px; text-anchor: middle; white-space: pre;" x="640" y="556.936">FOR SUSTAINABILITY</text>
+  <text style="fill: rgb(65, 61, 81); font-family: Bungee; font-size: 50.2px; white-space: pre;" x="436.813" y="432.305">nsustain.com</text>
+  <text style="fill: rgb(65, 61, 81); font-family: Raleway; font-size: 29px; letter-spacing: 1px; white-space: pre;" x="438.037" y="469.168">environment &amp; sustainability</text>
 </svg>
