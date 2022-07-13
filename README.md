@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-  <a href="https://codersforearth.com">
+  <a href="https://nsustain.com">
     <img src="https://user-images.githubusercontent.com/19341857/177896292-0837342f-120b-430b-a9bf-d4147f86f896.svg" width="350">
   </a>
 </p>
@@ -9,11 +9,11 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/CodersForEarth/codersforearth.com">
-    <img alt="codersforearth.com" src="https://img.shields.io/badge/GitHub-codersforearth.com-brightgreen">
+  <a href="https://github.com/Nsustain/nsustain.com">
+    <img alt="nsustain.com" src="https://img.shields.io/badge/GitHub-nsustain.com-brightgreen">
   </a>
-  <a href="https://github.com/CodersForEarth/codersforearth.com/blob/main/LICENSE">
-    <img src="https://badgen.net/github/license/CodersForEarth/codersforearth.com">
+  <a href="https://github.com/Nsustain/nsustain.com/blob/main/LICENSE">
+    <img src="https://badgen.net/github/license/Nsustain/nsustain.com">
   </a>
 </p>
 
@@ -23,15 +23,15 @@
   <b>OFFICIAL LOGO</b>
 </p>
 
-![logo](./profile/logo_bare.svg)
+![logo](./logo/logo_bare.svg)
 
 ---
 
-![logo](./profile/logo.svg)
+![logo](./logo/logo.svg)
 
 ---
 
-![logo_combined](./profile/logo_combined.svg)
+![logo_wide](./logo/logo_wide.svg)
 
 ---
 
@@ -43,7 +43,7 @@ meta tag for our website.
 Social preview is optimized for pictures
 with the size of 1280x640
 -->
-![logo_1280x640](./profile/logo_1280x640.svg)
+![logo_1280x640](./logo/logo_1280x640.svg)
 
 ---
 
