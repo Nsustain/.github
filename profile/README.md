@@ -49,7 +49,7 @@ project.
 #### Maintenance Page Source Code [[GitHub Repo](https://github.com/Nsustain/maintenance-page)]
 
 The maintenance page is used in the
-unlikely event of software / hardware
+unlikely event of a software / hardware
 failure in our main server. Our
 maintenance page is designed such that
 we can deploy it just by cloning
