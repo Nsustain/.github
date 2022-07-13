@@ -23,11 +23,11 @@
   <b>OFFICIAL LOGO</b>
 </p>
 
-![logo](./logo/logo_bare.svg)
+![logo](./logo/logo_bare.png)
 
 ---
 
-![logo](./logo/logo.svg)
+![logo](./logo/logo.png)
 
 ---
 
