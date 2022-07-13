@@ -13,7 +13,7 @@
     <img alt="nsustain.com" src="https://img.shields.io/badge/GitHub-nsustain.com-brightgreen">
   </a>
   <a href="https://github.com/Nsustain/nsustain.com/blob/main/LICENSE">
-    <img src="https://badgen.net/github/license/Nsustain/nsustain.com">
+    <img src="https://badgen.net/github/license/Nsustain/.github">
   </a>
 </p>
 
