@@ -42,6 +42,10 @@ with the size of 1280x640
 
 ---
 
+![logo_1920x600.png](./logo/logo_1920x600.png)
+
+---
+
 <p align="center">
   <b>CREDITS</b>
 </p>
