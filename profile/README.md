@@ -64,6 +64,7 @@ is documented on this repository's `README.MD`.
 
 We have various versions of our official
 logo maintained at this repository.
-Our owl, by the way, represents coders.
+Our owl, by the way, represents 
+open-source coders.
 If you look at its claws, you can see
 that it's typing.
