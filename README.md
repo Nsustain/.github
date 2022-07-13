@@ -27,6 +27,11 @@
 
 ---
 
+![logo_favicon](./logo/favicon.svg)
+
+---
+
+
 ![logo](./logo/logo.svg)
 
 ---
@@ -44,10 +49,6 @@ Social preview is optimized for pictures
 with the size of 1280x640
 -->
 ![logo_1280x640](./logo/logo_1280x640.svg)
-
----
-
-![logo_favicon](./logo/favicon.svg)
 
 ---
 
