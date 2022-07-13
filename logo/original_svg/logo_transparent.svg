@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+<svg viewBox="0 238.453 1000 584.318" style="enable-background:new 0 0 1000 1000;" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
   <defs>
     <style type="text/css">
 	.st0{opacity:0.7;fill:#FFFFFF;}
@@ -19,7 +19,6 @@
 </style>
     <style bx:fonts="Bungee">@import url(https://fonts.googleapis.com/css2?family=Bungee%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
   </defs>
-  <rect class="st0" width="1000" height="1000" style="opacity: 0;"/>
   <g>
     <ellipse id="XMLID_2_" class="st2" cx="501.8" cy="487.5" rx="228" ry="205.8"/>
     <ellipse id="XMLID_188_" class="st2" cx="501.8" cy="487.5" rx="228" ry="205.8"/>
