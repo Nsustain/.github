@@ -23,9 +23,7 @@
   <b>OFFICIAL LOGO</b>
 </p>
 
-<p align="center">
-  ![logo](./logo/logo_bare.png)
-</p>
+![logo](./logo/logo_bare.svg)
 
 ---
 
