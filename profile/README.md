@@ -40,9 +40,9 @@
 
 #### Nsustain.com Source Code [[GitHub Repo](https://github.com/Nsustain/nsustain.com)]
 
-This repository contains all of our
-website's source code. It also shows
-exactly how we built our website.
+Everything on our website - including
+the website itself - is an open-source
+project.
 
 <br>
 
