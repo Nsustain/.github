@@ -5,7 +5,6 @@
     <img src="https://raw.githubusercontent.com/Nsustain/.github/main/logo/logo_wide.png" width="350">
   </a>
 </p>
-
 ---
 
 <p align="center">
