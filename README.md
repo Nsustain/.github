@@ -42,26 +42,6 @@ with the size of 1280x640
 
 ---
 
-<p align="center">
-  <b>CREDITS</b>
-</p>
-
-Thank you `@realvjy` for designing this logo at
-[illlustrations.co](https://illlustrations.co/)
-and making it open-source.
-
-Our project name *Nsustain* was added by using
-a vector-graphics editor called
-[Boxy SVG](https://boxy-svg.com/),
-with *Bungee* 89pt and *Maven Pro*
-52pt from Google Fonts.
-
-We initially had a problem with our .svg files;
-fonts would default back to the system font
-on GitHub. However, we were able to fix this
-issue by choosing the option `Convert texts to paths`
-on BoxySVG on the export option.
-
 <br>
 <br>
 <br>
