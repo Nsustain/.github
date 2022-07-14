@@ -50,7 +50,7 @@ Thank you `@realvjy` for designing this logo at
 [illlustrations.co](https://illlustrations.co/)
 and making it open-source.
 
-Our project name *Coders for Earth* was added by using
+Our project name *Nsustain* was added by using
 a vector-graphics editor called
 [Boxy SVG](https://boxy-svg.com/),
 with *Bungee* 89pt and *Maven Pro*
