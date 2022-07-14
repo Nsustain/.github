@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://nsustain.com">
-    <img src="https://raw.githubusercontent.com/Nsustain/.github/main/logo/logo_wide.png" width="550">
+    <img src="https://raw.githubusercontent.com/Nsustain/.github/main/logo/logo_wide.png" width="350">
   </a>
 </p>
 
@@ -64,7 +64,7 @@ is documented on this repository's `README.MD`.
 
 We have various versions of our official
 logo maintained at this repository.
-Our owl, by the way, represents 
+Our owl, by the way, represents
 open-source coders.
 If you look at its claws, you can see
 that it's typing.
