@@ -53,7 +53,7 @@ with the size of 1280x640
   </b>
   <br>
   <br>
-  eNvironment & SUSTAINability
+  for the eNvironment & SUSTAINability
 </p>
 
 <br>
