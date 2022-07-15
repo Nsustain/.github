@@ -45,19 +45,3 @@ with the size of 1280x640
 <br>
 <br>
 <br>
-
-<p align="center">
-  <b>
-    Nsustain<br>
-    [<a href="https://nsustain.com">Official Website</a>]
-  </b>
-  <br>
-  <br>
-  for the eNvironment & SUSTAINability
-</p>
-
-<br>
-<br>
-<br>
-
-
