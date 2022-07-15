@@ -40,9 +40,9 @@
 
 #### Nsustain.com Source Code [[GitHub Repo](https://github.com/Nsustain/nsustain.com)]
 
-Everything on our website - including
-the website itself - is an open-source
-project.
+Every part of our website is
+open-source, and is maintained
+at this repository.
 
 <br>
 
@@ -55,8 +55,6 @@ maintenance page is designed such that
 we can deploy it just by cloning
 this repository and using `docker compose`
 to load the official docker nginx image.
-All our source code and how to use it
-is documented on this repository's `README.MD`.
 
 <br>
 
