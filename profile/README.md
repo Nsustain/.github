@@ -30,7 +30,9 @@
   </b>
   <br>
   <br>
-  An open-source community for the environment and sustainability.
+  An open-source community for the 
+  e<b><em>n</em></b>vironment and 
+  <b><em>sustain</em></b>ability.
 </p>
 
 <br>
