@@ -29,23 +29,32 @@
 
 ![logo_bare](./logo/logo_bare.svg)
 
-We use this version for our GitHub organization
-profile picture. It represents Earth.
-
+<p align="center">
+  Our logo represents Earth.
+  We use this version as our GitHub organization
+  profile picture.
+</p>
+  
 ---
 
 ![logo_github](./logo/logo_github.svg)
 
-Used as a header for our GitHub repositories.
-
+<p align="center">
+  The header for our GitHub repositories.
+</p>
+  
 ---
 
 ![logo_1280x640](./logo/logo_1280x640.svg)
 
-Used as a social preview picture for our website.
-Therefore, it's designed to be the optimal
-size for a social preview picture,
-which is 1280x640.
+<p align="center">
+  The social preview picture for our website.
+  This is what you see when you copy and paste
+  our website's link on Facebook, Twitter, etc.
+  It's designed to be the optimal
+  size for a social preview picture,
+  which is 1280x640.
+</p>
 
 ---
 
