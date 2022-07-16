@@ -23,26 +23,29 @@
   <b>Official Logo</b>
 </p>
 
-![logo](./logo/logo_bare.svg)
+![logo](./logo/logo.svg)
 
 ---
 
-![logo_alternative](./logo/logo_alternative.svg)
+![logo_bare](./logo/logo_bare.svg)
+
+We use this version for our GitHub organization
+profile picture. It represents Earth.
 
 ---
 
 ![logo_github](./logo/logo_github.svg)
 
+Used as a header for our GitHub repositories.
+
 ---
 
-<!--
-This image is for the social preview
-meta tag for our website.
-
-Social preview is optimized for pictures
-with the size of 1280x640
--->
 ![logo_1280x640](./logo/logo_1280x640.svg)
+
+Used as a social preview picture for our website.
+Therefore, it's designed to be the optimal
+size for a social preview picture,
+which is 1280x640.
 
 ---
 
