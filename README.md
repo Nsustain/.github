@@ -42,6 +42,10 @@ with the size of 1280x640
 
 ---
 
+![logo_stars](./logo/logo_stars.png)
+
+---
+
 <br>
 <br>
 <br>
