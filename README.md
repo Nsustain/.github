@@ -27,7 +27,7 @@
 
 ---
 
-![logo](./logo/logo.png)
+![logo_stars](./logo/logo_stars.png)
 
 ---
 
@@ -42,7 +42,7 @@ with the size of 1280x640
 
 ---
 
-![logo_stars](./logo/logo_stars.png)
+![logo](./logo/logo.png)
 
 ---
 
