@@ -27,9 +27,8 @@
 
 ---
 
-<img src="./logo/logo_bare.svg" width="350">
-
 <p align="center">
+  <img src="./logo/logo_bare.svg" width="400"><br>
   Our logo represents Earth.
   We use this version as our GitHub organization
   profile picture.
