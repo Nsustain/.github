@@ -47,9 +47,9 @@
 ![logo_1280x640](./logo/logo_1280x640.svg)
 
 <p align="center">
-  The social preview picture for our website.
-  This is what you see when you copy and paste
-  our website's link on Facebook, Twitter, etc.
+  This is the social preview picture for our website.
+  It's what you'll see when you copy and paste
+  our website's link on SNS.
   It's designed to be the optimal
   size for a social preview picture,
   which is 1280x640.
