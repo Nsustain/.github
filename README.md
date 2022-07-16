@@ -39,9 +39,9 @@
 ![logo_github](./logo/logo_github.svg)
 
 <p align="center">
-  The header for our GitHub repositories.
+  The header for our GitHub repositories.<br>
   By trial and error, we found that the size
-  of 800x441 is optimal for the header of
+  of 800x441 happens to be optimal for the header of
   our GitHub repositories.
 </p>
 
