@@ -27,7 +27,11 @@
 
 ---
 
-![logo_stars](./logo/logo_stars.png)
+![logo_github](./logo/logo_github.svg)
+
+---
+
+![logo_stars](./logo/logo.svg)
 
 ---
 
@@ -38,11 +42,11 @@ meta tag for our website.
 Social preview is optimized for pictures
 with the size of 1280x640
 -->
-![logo_1280x640](./logo/logo_1280x640.png)
+![logo_1280x640](./logo/logo_1280x640.svg)
 
 ---
 
-![logo](./logo/logo.png)
+![logo_1920x600](./logo/logo_1920x600.svg)
 
 ---
 
