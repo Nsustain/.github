@@ -27,6 +27,10 @@
 
 ---
 
+![logo_alternative](./logo/logo_alternative.svg)
+
+---
+
 ![logo_github](./logo/logo_github.svg)
 
 ---
@@ -43,10 +47,6 @@ Social preview is optimized for pictures
 with the size of 1280x640
 -->
 ![logo_1280x640](./logo/logo_1280x640.svg)
-
----
-
-![logo_1920x600](./logo/logo_1920x600.svg)
 
 ---
 
