@@ -40,6 +40,9 @@
 
 <p align="center">
   The header for our GitHub repositories.
+  By trial and error, we found that the size
+  of 800x441 is optimal for the header of
+  our GitHub repositories.
 </p>
 
 ---
