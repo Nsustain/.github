@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://nsustain.com">
-    <img src="https://raw.githubusercontent.com/Nsustain/.github/main/logo/logo_wide.png" width="350">
+    <img src="https://raw.githubusercontent.com/Nsustain/.github/main/logo/logo_stars_wide.png" width="350">
   </a>
 </p>
 
@@ -30,8 +30,8 @@
   </b>
   <br>
   <br>
-  An open-source community for the 
-  e<b><em>n</em></b>vironment and 
+  An open-source community for the
+  e<b><em>n</em></b>vironment and
   <b><em>sustain</em></b>ability.
 </p>
 
