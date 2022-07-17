@@ -33,7 +33,7 @@
     An open-source community for frontline
     environmental workers and coders willing to
     code for the
-    e<b><em>n</em></b>vironment and
+    e<b><em>n</em></b>vironment &
     <b><em>sustain</em></b>ability.
 </p>
 
