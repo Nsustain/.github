@@ -30,9 +30,7 @@
   </b>
   <br>
   <br>
-    An open-source community for the frontline
-    environmental workers and coders willing to
-    code for the
+    An open-source community for
     e<b><em>n</em></b>vironment &
     <b><em>sustain</em></b>ability.
 </p>
