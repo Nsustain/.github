@@ -25,7 +25,7 @@
 
 <p align="center">
   <b>
-    Nsustain<br>
+    An open-source website for frontline environmental workers and coders willing to code for the environment and sustainability.<br>
     [<a href="https://nsustain.com">Official Website</a>]
   </b>
   <br>
@@ -34,6 +34,7 @@
   e<b><em>n</em></b>vironment and
   <b><em>sustain</em></b>ability.
 </p>
+
 
 <br>
 <br>
