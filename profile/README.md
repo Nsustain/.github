@@ -25,14 +25,16 @@
 
 <p align="center">
   <b>
-    An open-source website for frontline environmental workers and coders willing to code for the environment and sustainability.<br>
+    Nsustain<br>
     [<a href="https://nsustain.com">Official Website</a>]
   </b>
   <br>
   <br>
-  An open-source community for the
-  e<b><em>n</em></b>vironment and
-  <b><em>sustain</em></b>ability.
+    An open-source community for frontline
+    environmental workers and coders willing to
+    code for the
+    e<b><em>n</em></b>vironment and
+    <b><em>sustain</em></b>ability.
 </p>
 
 
