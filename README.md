@@ -52,7 +52,7 @@
 <p align="center">
   This is the social preview picture for our website.
   It's what you'll see when you copy and paste
-  our website's link on SNS.
+  nsustain.com on any SNS.
   It's designed to be the optimal
   size for a social preview picture,
   which is 1280x640.
