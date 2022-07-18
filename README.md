@@ -30,8 +30,8 @@
 <p align="center">
   <img src="./logo/logo_bare.svg" width="400"><br>
   Our logo represents Earth.<br>
-  We use this version as our GitHub organization
-  profile picture.
+  This is the profile picture
+  for our GitHub organization.
 </p>
 
 ---
