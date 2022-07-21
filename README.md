@@ -29,9 +29,7 @@
 
 <p align="center">
   <img src="./logo/logo_bare.svg" width="400"><br>
-  Our logo represents Earth.<br>
-  This is the profile picture
-  for our GitHub organization.
+  Our logo represents Earth. This is our profile picture.
 </p>
 
 ---
