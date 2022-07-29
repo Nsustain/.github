@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://nsustain.com">
-    <img src="https://raw.githubusercontent.com/Nsustain/.github/main/logo/logo_github.png" width="350">
+    <img src="https://raw.githubusercontent.com/Nsustain/.github/main/logo/logo-github.png" width="350">
   </a>
 </p>
 
@@ -28,13 +28,13 @@
 ---
 
 <p align="center">
-  <img src="./logo/logo_bare.svg" width="400"><br>
+  <img src="./logo/logo-bare.svg" width="400"><br>
   Our logo represents Earth. This is our profile picture.
 </p>
 
 ---
 
-![logo_github](./logo/logo_github.svg)
+![logo-github](./logo/logo-github.svg)
 
 <p align="center">
   The header for our GitHub repositories.<br>
@@ -45,7 +45,7 @@
 
 ---
 
-![logo_1280x640](./logo/logo_1280x640.svg)
+![logo-1280x640](./logo/logo-1280x640.svg)
 
 <p align="center">
   This is the social preview picture for our website.
