@@ -25,8 +25,8 @@
 
 <p align="center">
   <b>
-    Contribution Guidelines<br>
-    [<a href="https://github.com/Nsustain/nsustain.com/blob/main/CONTRIBUTING.md">Official Guidelines</a>]
+    Code of Conduct<br>
+    [<a href="https://github.com/Nsustain/nsustain.com/blob/main/.github/CODE-OF-CONDUCT.md">Official Code of Conduct</a>]
   </b>
 </p>
 
