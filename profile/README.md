@@ -31,8 +31,8 @@
   <br>
   <br>
     An open-source community for the
-    e<b><em>n</em></b>vironment &
-    <b><em>sustain</em></b>ability.
+    e[<b>n</b>]vironment &
+    [<b>sustain</b>]ability.
 </p>
 
 <!---
