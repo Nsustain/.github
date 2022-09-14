@@ -30,7 +30,7 @@
   </b>
   <br>
   <br>
-    An open-source community for the
+    Request for open-source projects for the
     e[<b>n</b>]vironment &
     [<b>sustain</b>]ability.
 </p>
