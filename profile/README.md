@@ -32,8 +32,7 @@
   <br>
 		Connect with people who know the environmental
 		problems that need solutions.
-		Connect with people who can develop open-source
-		solutions for the
+		Connect with programmers who want to help the
     e[<b>n</b>]vironment &
     [<b>sustain</b>]ability.
 </p>
