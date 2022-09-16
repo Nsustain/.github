@@ -30,7 +30,10 @@
   </b>
   <br>
   <br>
-    Request for open-source projects for the
+		Connect with people who know the environmental
+		problems that need solutions.
+		Connect with people who can develop open-source
+		solutions for the
     e[<b>n</b>]vironment &
     [<b>sustain</b>]ability.
 </p>
