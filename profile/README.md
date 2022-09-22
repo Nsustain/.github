@@ -25,17 +25,103 @@
 
 <p align="center">
   <b>
-    Nsustain<br>
+    About<br>
     [<a href="https://nsustain.com">Official Website</a>]
   </b>
   <br>
   <br>
-		Connect with people who know the environmental
-		problems that need solutions.
-		Connect with programmers who want to help the
-    e[<b>n</b>]vironment &
-    [<b>sustain</b>]ability.
+    Connect with people who know the environmental
+    problems that need solutions.
+    Connect with programmers who want to help the
+    e[<b>n</b>]vironment & [<b>sustain</b>]ability.
 </p>
+
+<br>
+<br>
+
+***Who are we?***<br>
+We are a bunch of
+open-source developers
+who were trying to find
+an idea we can work on in order to
+help the envrionment,
+an idea that touches our heart,
+an idea that's worth our time and devotion,
+but couldn't.
+
+It was such a tragedy
+that - although we wanted to help -
+we couldn't find a specific problem
+on sustainability. They certainly exist.
+We all know that there are a lot of
+environmental problems that need solutions.
+It was just that we didn't know
+where to find them.
+
+<br>
+
+***Why do we do what we do?***<br>
+So, we made exactly what we
+wanted and needed. Nsustain
+is an open-source community, where
+front-line environmental workers -
+e.g. farmers and scientists - can
+post specific problems they've noticed
+in the world. Coders looking for
+a meaningful project that's really worth it
+now has one.
+
+The goal of our website is to help
+you find a project that really touches
+your heart, something that you truly find worthwhile.
+We will always try to make that process
+as smooth and enjoyable as possible for you.
+
+At the same time, we don't do anything sneaky.
+Security is our top-most priority, and
+we aren't interested in any of your personal information.
+We don't store suspicious cookies tracking everything you do.
+We don't optimize our website such that you
+stay on our website as long as possible.
+No, we don't want you to spend all day on Nsustain.
+Go help the environment. Write codes.
+Whatever you think is the best for the
+e[**n**]vironment & [***sustain***]ability.
+
+<br>
+
+***What does Nsustain mean?***<br>
+An open-source community for the
+e[<b>n</b>]vironment &
+[<b>sustain</b>]ability.
+
+<br>
+
+***How do we keep maintaining our server?***<br>
+We don't do ads.
+Our website was created to be a
+place for the open-source community.
+As such, Nsustain
+will always be an open-source project,
+and we will never commercialize our website.
+We do this because we genuinly wanted
+to help make the e[**n**]vironment [**sustain**]able.
+
+<!--
+***How did this all begin?***<br>
+Soobin Rho and Mariam Wisaal started
+this project for
+*2022 Call for Code Global Challenge*,
+which was an environmental initiative
+inviting "developers and problem solvers
+around the world to build and contribute
+to sustainable open source technology projects."
+Soobin and Mariam were college sophomores
+at Augustana University at that time,
+and the challenge was held for six months
+from May, 2022 to October, 2022.
+-->
+
 
 <!---
 <br>
