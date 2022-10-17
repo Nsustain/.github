@@ -40,7 +40,7 @@
 
 ***Who are we?***<br>
 We are a bunch of
-open-source contributors
+open-source developers
 who were trying to do something good
 for the e[**n**]vironment & 
 [**sustain**]ability.
