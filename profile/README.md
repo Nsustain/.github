@@ -30,10 +30,9 @@
   </b>
   <br>
   <br>
-    Connect with people who know the environmental
-    problems that need solutions.
-    Connect with programmers who want to help the
-    e[<b>n</b>]vironment & [<b>sustain</b>]ability.
+  Find open-source projects for the e[n]vironment & 
+  [sustain]ability. A forum website built for farmers, 
+  environmentalists, and programmers.
 </p>
 
 <br>
