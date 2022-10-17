@@ -106,7 +106,8 @@ failure in our main server. Our
 maintenance page is designed such that
 we can deploy it just by cloning
 this repository and using `docker compose`
-to load the official docker nginx image.
+to run our maintenance page, which is
+built on top of the Docker official nginx image.
 
 <br>
 
