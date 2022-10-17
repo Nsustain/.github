@@ -74,7 +74,7 @@ We don't do ads.
 Our website was created to be a
 place for the open-source community.
 As such, Nsustain
-will always be an open-source website,
+will always be an open-source website
 and will never be commercialized,
 since we genuinly want to do good things for
 the e[**n**]vironment & [**sustain**]ability.
