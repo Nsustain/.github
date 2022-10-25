@@ -32,7 +32,7 @@
   <br>
   Find open-source projects for the environment & 
   sustainability. An open-source forum website 
-  made for farmers, environmentalists, and programmers.
+  made for farmers, environmentalists, and open-source developers.
 </p>
 
 <br>
