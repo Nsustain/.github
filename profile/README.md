@@ -81,19 +81,18 @@ E[<b>n</b>]vironment and
 
 Every part of our website,
 except for the database containing user data,
-is open-source and is maintained at this repository.
-This repository is how we run
+is open-source. This repository is how we run
 [Nsustain.com](https://nsustain.com)
 
 <br>
 
 #### Maintenance Page Source Code [[GitHub](https://github.com/Nsustain/maintenance-page)]
 
-Our maintenance page is designed such that
+We use this repository in case of 
+unforseeable emergency. It's designed such that
 we can deploy it just by cloning
-this repository and using 
+this repository and using
 `docker compose up -d`.
-We use this in case of unforseeable emergency.
 
 <br>
 
