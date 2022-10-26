@@ -50,8 +50,8 @@ we didn't know where to find them.
 <br>
 
 ***Why did we create Nsustain?***<br>
-So, we made exactly what we needed. Nsustain
-is an open-source community where
+We made what we needed, and that is Nsustain,
+an open-source community where
 anyone who works closely with the environment -
 such as farmers, environmentalists, and scientists -
 can communicate with open-source developers
@@ -62,13 +62,12 @@ the e[**n**]vironment &
 <br>
 
 ***What does Nsustain mean?***<br>
-An open-source community for the
-e[<b>n</b>]vironment &
+E[<b>n</b>]vironment and
 [<b>sustain</b>]ability.
 
 <br>
 
-***How do we keep maintaining our server?***<br>
+***How do we maintain our server?***<br>
 We don't do ads.
 Our website was created to be a
 place for the open-source community.
@@ -104,15 +103,14 @@ unlikely event of a software / hardware
 failure in our main server. Our
 maintenance page is designed such that
 we can deploy it just by cloning
-this repository and using `docker compose`
-to run our maintenance page, which is
-built on top of the Docker official nginx image.
+this repository and using 
+`docker compose up -d`.
 
 <br>
 
-#### Official Logo [[GitHub Repo](https://github.com/Nsustain/.github)]
+#### Official Logos [[GitHub Repo](https://github.com/Nsustain/.github)]
 
 We have various versions of our official
-logo maintained at this repository.
+logos maintained at this repository.
 Each version is stored as `.png` and
 `.svg` files.
