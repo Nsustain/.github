@@ -30,9 +30,8 @@
   </b>
   <br>
   <br>
-  Find and request open-source projects for the environment & 
-  sustainability. An open-source forum website 
-  made for farmers, environmentalists, and open-source developers.
+  Find and request open-source projects for the environment and
+  sustainability.
 </p>
 
 <br>
