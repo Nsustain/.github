@@ -77,7 +77,7 @@ E[<b>n</b>]vironment and
 
 ## Repositories
 
-#### [Nsustain.com](https://nsustain.com) Source Code [[GitHub](https://github.com/Nsustain/nsustain.com)]
+#### Nsustain Source Code [[GitHub](https://github.com/Nsustain/nsustain.com)]
 
 Every part of our website,
 except for the database containing user data,
