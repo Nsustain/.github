@@ -88,13 +88,11 @@ is open-source and is maintained at this repository.
 
 #### Maintenance Page Source Code [[GitHub Repo](https://github.com/Nsustain/maintenance-page)]
 
-The maintenance page is used in the
-unlikely event of a software / hardware
-failure in our main server. Our
-maintenance page is designed such that
+Our maintenance page is designed such that
 we can deploy it just by cloning
 this repository and using 
 `docker compose up -d`.
+We use this in case of unforseeable emergency.
 
 <br>
 
