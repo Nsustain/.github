@@ -54,7 +54,7 @@ an open-source community where
 anyone who works closely with the environment -
 such as farmers, environmentalists, and scientists -
 can communicate with open-source developers
-who are willing to do good things for
+who are willing to help out for
 the environment and sustainability.
 
 <br>
