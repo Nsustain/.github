@@ -41,8 +41,7 @@
 We are a bunch of
 open-source developers
 who were trying to do something good
-for the e[**n**]vironment and
-[**sustain**]ability.
+for the environment and sustainability.
 We knew there are a lot of problems
 that need our help, but the problem was that
 we didn't know where to find them.
@@ -56,8 +55,7 @@ anyone who works closely with the environment -
 such as farmers, environmentalists, and scientists -
 can communicate with open-source developers
 who are willing to do good things for
-the e[**n**]vironment and
-[**sustain**]ability.
+the environment and sustainability.
 
 <br>
 
