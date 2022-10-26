@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <b>Official Logo</b>
+  <b>Official Logos</b>
 </p>
 
 ![logo](./logo/logo.svg)
