@@ -77,15 +77,17 @@ E[<b>n</b>]vironment and
 
 ## Repositories
 
-#### Nsustain.com Source Code [[GitHub Repo](https://github.com/Nsustain/nsustain.com)]
+#### [Nsustain.com](https://nsustain.com) Source Code [[GitHub](https://github.com/Nsustain/nsustain.com)]
 
 Every part of our website,
 except for the database containing user data,
 is open-source and is maintained at this repository.
+This repository is how we run
+[Nsustain.com](https://nsustain.com)
 
 <br>
 
-#### Maintenance Page Source Code [[GitHub Repo](https://github.com/Nsustain/maintenance-page)]
+#### Maintenance Page Source Code [[GitHub](https://github.com/Nsustain/maintenance-page)]
 
 Our maintenance page is designed such that
 we can deploy it just by cloning
@@ -95,7 +97,7 @@ We use this in case of unforseeable emergency.
 
 <br>
 
-#### Official Logos [[GitHub Repo](https://github.com/Nsustain/.github)]
+#### Official Logos [[GitHub](https://github.com/Nsustain/.github)]
 
 We have various versions of our official
 logos maintained at this repository.
