@@ -51,8 +51,8 @@ we didn't know where to find them.
 ***Why did we create Nsustain?***<br>
 We made what we needed, and that is Nsustain,
 an open-source community where
-anyone who works closely with the environment -
-such as farmers, environmentalists, and scientists -
+anyone who works closely with the environment
+such as farmers, environmentalists, or scientists
 can communicate with open-source developers
 who are willing to help out for
 the environment and sustainability.
