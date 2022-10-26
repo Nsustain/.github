@@ -81,9 +81,8 @@ E[<b>n</b>]vironment and
 
 #### Nsustain.com Source Code [[GitHub Repo](https://github.com/Nsustain/nsustain.com)]
 
-Every part of our website is
-open-source and is maintained
-at this repository.
+Every part of our website except for the database 
+is open-source and is maintained at this repository.
 
 <br>
 
