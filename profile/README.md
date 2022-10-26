@@ -41,7 +41,7 @@
 We are a bunch of
 open-source developers
 who were trying to do something good
-for the e[**n**]vironment & 
+for the e[**n**]vironment and
 [**sustain**]ability.
 We knew there are a lot of problems
 that need our help, but the problem was that
@@ -56,7 +56,7 @@ anyone who works closely with the environment -
 such as farmers, environmentalists, and scientists -
 can communicate with open-source developers
 who are willing to do good things for
-the e[**n**]vironment & 
+the e[**n**]vironment and
 [**sustain**]ability.
 
 <br>
@@ -65,24 +65,15 @@ the e[**n**]vironment &
 E[<b>n</b>]vironment and
 [<b>sustain</b>]ability.
 
-<br>
-
-***How do we maintain our server?***<br>
-We don't do ads.
-Our website was created to be a
-place for the open-source community.
-As such, Nsustain
-will always be an open-source website
-and will never be commercialized,
-since we genuinly want to do good things for
-the e[**n**]vironment & [**sustain**]ability.
-
 <!---
+
+<br>
 <br>
 <br>
   Insert YouTube intro video here.
 -->
 
+<br>
 <br>
 <br>
 
