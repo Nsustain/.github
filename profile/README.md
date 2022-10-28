@@ -63,13 +63,20 @@ the environment and sustainability.
 E[<b>n</b>]vironment and
 [<b>sustain</b>]ability.
 
-<!---
+<br>
+<br>
+<br>
 
-<br>
-<br>
-<br>
-  Insert YouTube intro video here.
--->
+<p align="center">
+  <b>
+    YouTube<br>
+    [<a href="https://youtu.be/E8JAcw1SJLA">What is Nsustain?</a>]
+  </b>
+  <a href="https://youtu.be/E8JAcw1SJLA" target="_blank">
+    <img src="https://img.youtube.com/vi/E8JAcw1SJLA/maxresdefault.jpg" alt="Nsustain YouTube" />
+  </a>
+</p>
+
 
 <br>
 <br>
