@@ -55,7 +55,7 @@ anyone who works closely with the environment
 such as farmers, environmentalists, or scientists
 can communicate with open-source developers
 who are willing to help out for
-the environment and sustainability.
+the environment and sustainability ❤️
 
 <br>
 
