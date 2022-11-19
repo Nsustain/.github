@@ -30,8 +30,7 @@
   </b>
   <br>
   <br>
-  Find and request open-source projects for the environment and
-  sustainability.
+  Nsustain is a website where volunteer open-source developers can help farmers around the world, connecting people who need help with those who can help.
 </p>
 
 <br>
