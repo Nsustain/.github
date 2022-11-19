@@ -30,7 +30,7 @@
   </b>
   <br>
   <br>
-  Nsustain is a website where volunteer open-source developers can help farmers around the world, connecting people who need help with those who can help.
+  Nsustain is a website where volunteer open-source developers come to help farmers around the world, connecting people who need help with those who can help.
 </p>
 
 <br>
@@ -94,7 +94,7 @@ is open-source. This repository is how we run
 
 #### Maintenance Page Source Code [[GitHub](https://github.com/Nsustain/maintenance-page)]
 
-We use this repository in case of 
+We use this repository in case of
 unforseeable emergency. It's designed such that
 we can deploy it just by cloning
 this repository and using
