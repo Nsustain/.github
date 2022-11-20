@@ -41,26 +41,30 @@ We are a bunch of
 open-source developers
 who were trying to do something good
 for the environment and sustainability.
-We knew there are a lot of problems
-that need our help, but the problem was that
-we didn't know where to find them.
+Since there are so many environmental problems,
+we wanted to help in any way we can, but we couldn't.
+That was the problem.
 
 <br>
 
 ***Why did we create Nsustain?***<br>
-We made what we needed, and that is Nsustain,
-an open-source community where
-anyone who works closely with the environment
-such as farmers, environmentalists, or scientists
-can communicate with open-source developers
-who are willing to help out for
-the environment and sustainability ❤️
+In order to solve environmental problems,
+we need somebody that works closely with the
+environment to keep working with us not only to
+show us what and where the problem is on the first place,
+but also to tell us if our solution actually worked or not.
+The problem was that it's hard for regular people like us to
+meet people who can do this for us. Thus, we created Nsustain.
 
 <br>
 
 ***What does Nsustain mean?***<br>
 E[<b>n</b>]vironment and
 [<b>sustain</b>]ability.
+Nsustain is a website where anyone working closely with
+the environment such as farmers, environmentalists, or scientists
+can come ask for help in solving the environmental problems
+they had encountered while working closely with the environment.
 
 <br>
 <br>
