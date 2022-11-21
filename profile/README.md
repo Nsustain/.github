@@ -53,7 +53,7 @@ we need somebody that works closely with the
 environment to keep working with us not only to
 show us what and where the problem is on the first place,
 but also to tell us if our solution actually worked or not.
-The problem was that it's hard for regular people like us to
+It's hard for regular people like us to
 meet people who can do this for us. Thus, we created Nsustain.
 
 <br>
