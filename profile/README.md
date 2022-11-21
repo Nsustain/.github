@@ -48,7 +48,7 @@ That was the problem.
 <br>
 
 ***Why did we create Nsustain?***<br>
-In order to solve environmental problems,
+In order to help solve environmental problems,
 we need somebody that works closely with the
 environment to keep working with us not only to
 show us what and where the problem is on the first place,
