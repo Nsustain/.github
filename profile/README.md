@@ -59,7 +59,7 @@ We connect people who need our help with people who want to help.
 
 <br>
 
-***What does Nsustain mean?***<br>
+***What does Nsustain stand for?***<br>
 E[<b>n</b>]vironment and
 [<b>sustain</b>]ability.
 Nsustain is a website where anyone working closely with
