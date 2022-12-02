@@ -64,8 +64,7 @@ E[<b>n</b>]vironment and
 [<b>sustain</b>]ability.
 Nsustain is a website where anyone working closely with
 the environment such as farmers, environmentalists, or scientists
-can come ask for help in solving the environmental problems
-they had encountered while working closely with the environment.
+can come ask for help.
 
 <br>
 <br>
