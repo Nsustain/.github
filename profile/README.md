@@ -30,7 +30,7 @@
   </b>
   <br>
   <br>
-  🌳 Nsustain is about connecting people who need our help with those who can help. A website where volunteer open-source developers can come help farmers and scientists around the world.
+  🌳 Nsustain is a website where volunteer open-source developers can come help farmers and scientists around the world. We connect people who need our help with people who want to help.
 </p>
 
 <br>
