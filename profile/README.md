@@ -37,7 +37,7 @@
 <br>
 
 # Nsustain
-> On Nsustain, you can post any kind of problem you need help with. For example, do you want us to create a program that optimizes your production outputs? Tell us why helping you solve that problem is good for environmental sustainability.
+> On Nsustain, you can post any kind of problem you need help with. For example, do you want us to create a program that optimizes your production outputs? Tell us why helping you solve that problem would be good directly or indirectly for environmental sustainability.
 >
 > Give us data to work on. Be specific. Tell us exactly what kind of solution you need. We'll be genuinely happy to volunteer our time and talent to help you solve that problem. We are honored to help you out. For the environment and sustainability 👍
 
