@@ -65,7 +65,7 @@ closely with the environment. Thus, solving any kind of
 problem that farmers have is one of the best ways to make
 a positive impact on environmental sustainability.
 
-Most people who have office jobs don’t know how it is
+Most people who have office jobs don’t know what it's like
 to work closely with the environment. Farmers, in contrast,
 are possibly the most-knowledgeable group that know very well
 about the environment.
