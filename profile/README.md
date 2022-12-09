@@ -67,7 +67,7 @@ a positive impact on environmental sustainability.
 
 Most people who have office jobs don’t know what it's like
 to work closely with the environment. Farmers, in contrast,
-are possibly the most-knowledgeable group that know very well
+are possibly the most-knowledgeable group that knows very well
 about the environment.
 
 The same goes for scientists, environmentalists,
