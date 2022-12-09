@@ -36,6 +36,14 @@
 <br>
 <br>
 
+# Nsustain
+On Nsustain, you can post any kind of problem you need help with. Be specific. For example, do you want us to create a program that optimizes your production outputs? Tell us why helping you solve that problem will contribute to the betterment of environmental sustainability.
+
+Give us data to work on. Tell us exactly what kind of solution you need. We'll be genuinely happy to volunteer our time and talent to help you solve that problem. We are honored to be able to help. For the environment and sustainability 👍
+
+<br>
+<br>
+
 ***Who are we?***<br>
 We are a bunch of
 open-source developers
