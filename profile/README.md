@@ -43,27 +43,44 @@
 
 <br>
 <br>
+<br>
 
 ***Who are we?***<br>
-We are a bunch of
-open-source developers
-who were trying to do something good
-for the environment and sustainability.
-Since there are so many environmental problems,
-we wanted to help in any way we can, but we couldn't.
-That was the problem.
+College students. Internet strangers.
+Open-source developers.
+
+A lot of us actually
+want to do meaningful work in our life instead
+of just making apps that attract more ads.
+Don't get me wrong -- making apps for
+ads money is manytimes great and novel too, but it's
+human nature to have a lifelong desire
+for meaningful work that truly matters in your life.
 
 <br>
 
 ***Why did we create Nsustain?***<br>
-In order to help solve environmental problems,
-we need somebody that works closely with the
-environment to keep working with us not only to
-show us what and where the problem is on the first place,
-but also to tell us if our solution actually worked or not.
-It's hard for regular people like us to
-meet people who can do this for us. Thus, we created Nsustain.
-We connect people who need our help with people who want to help.
+The idea is that farmers are the people who work most
+closely with the environment. Thus, solving any kind of
+problem that farmers have is one of the best ways to make
+a positive impact on environmental sustainability.
+
+Most people who have office jobs don’t know how it is
+to work closely with the environment. Farmers, in contrast,
+are possibly the most-knowledgeable group that know very well
+about the environment.
+
+The same goes for scientists, environmentalists,
+or anyone working closely with the environment.
+
+You see, this is a win-win situation. Farmers get technological
+support, while at the same time open-source developers get real-world,
+exciting, fun problems to solve!
+
+This is why we made this into a non-profit organization.
+We’re planning on running this organization as long as
+we can, hopefully our lifetime, because helping out farmers
+genuinely makes us happy.
 
 <br>
 
