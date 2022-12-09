@@ -39,7 +39,7 @@
 # Nsustain
 > On Nsustain, you can post any kind of problem you need help with. For example, do you want us to create a program that optimizes your production outputs? Tell us why helping you solve that problem will contribute to the betterment of environmental sustainability.
 >
-> Give us data to work on. Be specific. Tell us exactly what kind of solution you need. We'll be genuinely happy to volunteer our time and talent to help you solve that problem. We are honored to be able to help. For the environment and sustainability 👍
+> Give us data to work on. Be specific. Tell us exactly what kind of solution you need. We'll be genuinely happy to volunteer our time and talent to help you solve that problem. We are honored to help you out. For the environment and sustainability 👍
 
 <br>
 <br>
@@ -80,7 +80,9 @@ exciting, fun problems to solve!
 This is why we made this into a non-profit organization.
 We’re planning on running this organization as long as
 we can, hopefully our lifetime, because helping out farmers
-genuinely makes us happy.
+genuinely makes us happy. We should thank them, too,
+because the fulfilment we get by doing this is great
+for us as well. We're honored to help you.
 
 <br>
 
