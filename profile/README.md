@@ -78,7 +78,7 @@ Most people who have office jobs simply don't
 have close contact with problems related
 to the environment and sustainability.
 Farmers, in contrast, are possibly the
-mmost-knowledgeable group. They know about
+most-knowledgeable group. They know about
 the biggest problems that need the greatest
 solutions.
 
