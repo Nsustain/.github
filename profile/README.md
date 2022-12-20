@@ -59,7 +59,7 @@ for meaningful work that truly matters in your life.
 
 <br>
 
-***Why did we create Nsustain?***<br>
+***Why did we make Nsustain?***<br>
 The idea is that farmers are the people who work most
 closely with the environment. Thus, solving any kind of
 problem that farmers have is one of the best ways to make
