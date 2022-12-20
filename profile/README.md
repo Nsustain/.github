@@ -73,7 +73,8 @@ about the environment.
 The same goes for scientists, environmentalists,
 or anyone working closely with the environment.
 We need a way to connect people who work in the
-frontlines with people who want to help them.
+frontlines with people who want to support them
+with our technological skills or whatever talent you have.
 
 You see, this is a win-win situation. Farmers get technological
 support, while at the same time open-source developers get real-world,
