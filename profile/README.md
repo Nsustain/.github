@@ -63,8 +63,8 @@ want to do meaningful work in our life instead
 of just making apps that attract more ads.
 Don't get me wrong -- making apps for
 ads money is manytimes great and novel too, but it's
-human nature to have a lifelong desire
-for meaningful work that truly matters in your life.
+human nature to have a lifelong desire to
+do work that matters.
 
 <br>
 
@@ -79,11 +79,9 @@ to work closely with the environment. Farmers, in contrast,
 are possibly the most-knowledgeable group that knows very well
 about the environment.
 
-The same goes for scientists, environmentalists,
-or anyone working closely with the environment.
-We need a way to connect people who work in the
-frontlines with people who want to support them
-with our technological skills or whatever talent you have.
+The same goes for scientists, environmentalists, or doctors.
+Anyone who work closely with the environment.
+Anyone who work in the frontlines.
 
 You see, this is a win-win situation. Farmers get technological
 support. We get real-world,
