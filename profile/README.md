@@ -61,10 +61,10 @@ Open-source developers.
 A lot of us actually
 want to do meaningful work in our life instead
 of just making apps that attract more ads.
-Don't get me wrong -- making apps for
-ads money is manytimes great and novel too, but it's
+Don't get me wrong. Making consumer products
+is necessary, great, and novel, too, but it's
 human nature to have a lifelong desire to
-do work that matters.
+do work that matters. Work that we truly care about.
 
 <br>
 
@@ -74,17 +74,20 @@ closely with the environment. Thus, solving any kind of
 problem that farmers have is one of the best ways to make
 a positive impact on environmental sustainability.
 
-Most people who have office jobs don’t know what it's like
-to work closely with the environment. Farmers, in contrast,
-are possibly the most-knowledgeable group that knows very well
-about the environment.
+Most people who have office jobs simply don't
+have close contact with problems related
+to the environment and sustainability.
+Farmers, in contrast, are possibly the
+mmost-knowledgeable group. They know about
+the biggest problems that need the greatest
+solutions.
 
 The same goes for scientists, environmentalists, or doctors.
 Anyone who work closely with the environment.
 Anyone who work in the frontlines.
 
-You see, this is a win-win situation. Farmers get technological
-support. We get real-world,
+You see, this is a win-win situation. You get technological
+support without spending any money. We get real-world,
 exciting, fun problems to solve!
 
 This is why we made this into a non-profit organization.
