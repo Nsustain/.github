@@ -84,7 +84,7 @@ solutions.
 
 The same goes for scientists, environmentalists, or doctors.
 Anyone who work closely with the environment.
-Anyone who work in the frontlines.
+Anyone who work on the frontline.
 
 You see, this is a win-win situation. You get technological
 support without spending any money. We get real-world,
