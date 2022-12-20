@@ -77,15 +77,14 @@ frontlines with people who want to support them
 with our technological skills or whatever talent you have.
 
 You see, this is a win-win situation. Farmers get technological
-support, while at the same time open-source developers get real-world,
+support. We get real-world,
 exciting, fun problems to solve!
 
 This is why we made this into a non-profit organization.
 We’re planning on running this organization as long as
-we can, hopefully our lifetime, because helping out farmers
-genuinely makes us happy. We should thank them, too,
-because the fulfilment we get by doing this is great
-for us as well. We're honored to help you.
+we can, hopefully our lifetime. We love using our skills
+for the betterment of environmental sustainability.
+We're honored to help you.
 
 <br>
 
