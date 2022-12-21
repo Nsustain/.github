@@ -73,7 +73,6 @@ The idea is that farmers are the people who work most
 closely with the environment. Thus, solving any kind of
 problem that farmers have is one of the best ways to make
 a positive impact on environmental sustainability.
-
 Most people who have office jobs simply don't
 have close contact with problems related
 to the environment and sustainability.
@@ -85,7 +84,6 @@ solutions.
 The same goes for scientists, environmentalists, or doctors.
 Anyone who work closely with the environment.
 Anyone who work on the frontline.
-
 You see, this is a win-win situation. You get technological
 support without spending any money. We get real-world,
 exciting, fun problems to solve!
