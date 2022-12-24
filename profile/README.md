@@ -49,7 +49,7 @@
 > to support sustainability.
 >
 > Please be specific in your request and
-> be patient as volunteer developers work to address your issue.
+> be patient as we work to address your issue.
 
 <br>
 <br>
