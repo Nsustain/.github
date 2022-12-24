@@ -37,18 +37,19 @@
 <br>
 
 # Nsustain
-> On Nsustain, you can post any kind of problem
-> you need help with.
+> Welcome to Nsustain, a non-profit, open-source website
+> where volunteer developers can offer their skills to
+> assist farmers and scientists in addressing issues related
+> to environmental sustainability.
 >
-> For example, do you want us to
-> create a program that optimizes your logistics?
-> If you can show that solving your problem
-> creates a positive impact for environmental
-> sustainability, we'll make it for you.
+> If you have a problem that
+> you need help with, we encourage you to post it on our platform.
+> Whether you need a program to optimize your logistics or another solution,
+> we will do our best to assist you as long as it aligns with our mission
+> to support sustainability.
 >
-> Tell us exactly what kind of solution you
-> need. Be specific. Be patient. All of us
-> are volunteers 👍
+> Please be specific in your request and
+> be patient as volunteer developers work to address your issue.
 
 <br>
 <br>
@@ -64,7 +65,8 @@ of just making apps that attract more ads.
 Don't get me wrong. Making consumer products
 is necessary, great, and novel, too, but it's
 human nature to have a lifelong desire to
-do work that matters. Work that we truly care about.
+work on projects that truly matter to us
+and make a meaningful difference in the world.
 
 <br>
 
@@ -88,11 +90,14 @@ You see, this is a win-win situation. You get technological
 support without spending any money. We get real-world,
 exciting, fun problems to solve!
 
-This is why we made this into a non-profit organization.
-We’re planning on running this organization as long as
-we can, hopefully our lifetime. We love using our skills
-for the betterment of environmental sustainability.
-We're honored to help you.
+Our goal is to use our skills and expertise to make a positive
+impact on the environment, while also providing valuable experience
+and opportunities for our volunteers. We believe that by working
+closely with those who have a deep understanding of the challenges
+facing the environment, we can develop innovative solutions that
+address these issues and make a lasting difference. We are committed
+to running Nsustain for as long as we can, and we are honored to have
+the opportunity to use our skills to make a positive impact on the world.
 
 <br>
 
