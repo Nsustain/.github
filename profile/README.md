@@ -42,7 +42,7 @@
 > Nsustain is here to help. We are a non-profit,
 > open-source website connecting volunteer
 > developers with those in need of technical assistance.
-
+>
 > If you have a problem that you need help with,
 > don't hesitate to post it on our platform.
 > We will do our best to assist you with a
@@ -51,7 +51,7 @@
 > else. As long as it aligns with our
 > mission to support sustainability,
 > we are here to help.
-
+>
 > We are a team of passionate volunteers
 > who are committed to using our skills
 > and expertise to make a positive impact
