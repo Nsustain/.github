@@ -37,23 +37,27 @@
 <br>
 
 # Nsustain
-> Welcome to Nsustain, a non-profit, open-source website
-> where volunteer developers can offer their skills to
-> assist farmers and scientists in addressing issues related
-> to environmental sustainability.
->
-> If you have a problem that
-> you need help with, we encourage you to post it on our platform.
-> Whether you need a program to optimize your logistics or another solution,
-> we will do our best to assist you as long as it aligns with our mission
-> to support sustainability.
->
-> We are a group of dedicated volunteers who are committed
-> to helping find solutions to problems related to environmental
-> sustainability. With our skills and expertise, we are ready to
-> assist and support any efforts to make a positive impact on the planet.
-> Please be specific in your request and
-> be patient as we work to address your issue.
+> Are you a farmer or scientist working on
+> issues related to environmental sustainability?
+> Nsustain is here to help. We are a non-profit,
+> open-source website connecting volunteer
+> developers with those in need of technical assistance.
+
+> If you have a problem that you need help with,
+> don't hesitate to post it on our platform.
+> We will do our best to assist you with a
+> solution, whether it's a program to
+> optimize your logistics or something
+> else. As long as it aligns with our
+> mission to support sustainability,
+> we are here to help.
+
+> We are a team of passionate volunteers
+> who are committed to using our skills
+> and expertise to make a positive impact
+> on the environment. Please be specific
+> in your request and we will do our best
+> to address your issue as quickly as possible.
 
 <br>
 <br>
