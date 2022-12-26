@@ -67,14 +67,13 @@
 College students. Internet strangers.
 Open-source developers.
 
-A lot of us actually
-want to do meaningful work in our life instead
-of just making apps that attract more ads.
-Don't get me wrong. Making consumer products
-is necessary, great, and novel, too, but it's
-human nature to have a lifelong desire to
-work on projects that truly matter to us
-and make a meaningful difference in the world.
+We want to work on projects that have a purpose
+and make a positive impact, rather than simply
+creating apps that generate revenue through
+advertising. While there is value in developing
+consumer products, we also recognize everyone
+has the desire to work on projects that truly matter.
+Projects that we truly care about.
 
 <br>
 
