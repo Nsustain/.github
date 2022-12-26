@@ -88,36 +88,23 @@ Most people who have office jobs simply don't
 have close contact with problems related
 to the environment and sustainability.
 Farmers, in contrast, are possibly the
-most-knowledgeable group. They know about
-the biggest problems that need the greatest
-solutions.
+most-knowledgeable group. By working with these individuals,
+who have a deep understanding of the challenges facing the
+environment, Nsustain hopes to develop innovative solutions
+that make a lasting positive impact.
 
-The same goes for scientists, environmentalists, or doctors.
-Anyone who work closely with the environment.
-Anyone who work on the frontline.
-You see, this is a win-win situation. You get technological
-support without spending any money. We get real-world,
-exciting, fun problems to solve!
-
-Our goal is to use our skills and expertise to make a positive
-impact on the environment, while also providing valuable experience
-and opportunities for our volunteers. We believe that by working
-closely with those who have a deep understanding of the challenges
-facing the environment, we can develop innovative solutions that
-address these issues and make a lasting difference. We are committed
-to running Nsustain for as long as we can, and we are honored to have
-the opportunity to use our skills to make a positive impact on the world.
+Nsustain is a platform designed to help regular people make a
+direct impact on environmental sustainability. We aim to empower
+individuals to take action and contribute to the fight against climate change.
+We are committed to running Nsustain for as long as we can, and
+we are honored to have the opportunity to use our skills
+to make a positive impact on the world.
 
 <br>
 
 ***What does Nsustain stand for?***<br>
 E[<b>n</b>]vironment and
 [<b>sustain</b>]ability.
-Nsustain is a website where volunteers with open-source
-development skills can help farmers, scientists,
-environmentalists, and others who work closely
-with the environment to address problems related
-to environmental sustainability.
 
 <br>
 <br>
