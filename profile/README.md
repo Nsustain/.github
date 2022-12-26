@@ -48,6 +48,10 @@
 > we will do our best to assist you as long as it aligns with our mission
 > to support sustainability.
 >
+> We are a group of dedicated volunteers who are committed
+> to helping find solutions to problems related to environmental
+> sustainability. With our skills and expertise, we are ready to
+> assist and support any efforts to make a positive impact on the planet.
 > Please be specific in your request and
 > be patient as we work to address your issue.
 
