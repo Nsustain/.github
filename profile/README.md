@@ -111,9 +111,11 @@ the opportunity to use our skills to make a positive impact on the world.
 ***What does Nsustain stand for?***<br>
 E[<b>n</b>]vironment and
 [<b>sustain</b>]ability.
-Nsustain is a website where anyone working closely with
-the environment such as farmers, environmentalists, or scientists
-can come ask for help.
+Nsustain is a website where volunteers with open-source
+development skills can help farmers, scientists,
+environmentalists, and others who work closely
+with the environment to address problems related
+to environmental sustainability.
 
 <br>
 <br>
