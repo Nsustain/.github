@@ -39,6 +39,7 @@
 # Nsustain
 > Are you a farmer or scientist working on
 > issues related to environmental sustainability?
+> We're here to help.
 > We're a non-profit, open-source website connecting
 > volunteer developers with those in need of technical
 > assistance. Farmers, scientists, environmentalists,
