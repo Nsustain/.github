@@ -103,7 +103,7 @@ to make a positive impact on the world.
 <br>
 
 ***What does Nsustain stand for?***<br>
-E[<b>n</b>]vironment and
+E[<b>N</b>]vironment and
 [<b>sustain</b>]ability.
 
 <br>
