@@ -59,7 +59,7 @@
 > and expertise to make a positive impact
 > on the environment. Please be specific
 > in your request and we will do our best
-> to address your issue as quickly as possible.
+> to address your request as quickly as possible.
 
 <br>
 <br>
