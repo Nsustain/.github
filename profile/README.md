@@ -80,14 +80,13 @@ Projects that we truly care about.
 <br>
 
 ***Why did we make Nsustain?***<br>
-The idea is that farmers are the people who work most
-closely with the environment. Thus, solving any kind of
-problem that farmers have is one of the best ways to make
-a positive impact on environmental sustainability.
+The idea is that farmers are the people who work
+most closely with the environment, so solving any
+problems they have is likely one of the best ways
+to make a positive impact on environmental sustainability.
 People who have office jobs often
 do not have close contact with environmental issues
-or sustainability problems. On the other hand,
-farmers may be the most knowledgeable group in this area.
+or sustainability problems.
 By working with these individuals,
 who have a deep understanding of the challenges facing the
 environment, Nsustain hopes to develop innovative solutions
@@ -96,8 +95,9 @@ that make a lasting positive impact.
 Nsustain is a platform designed to help regular people make a
 direct impact on environmental sustainability. We aim to empower
 individuals to take action and contribute to the fight against climate change.
-We are committed to running Nsustain for as long as we can, hopefully our lifetime,
-and we are honored to have the opportunity to use our skills
+We are committed to running Nsustain for as long as we can,
+hopefully our lifetime, and we are honored to
+have the opportunity to use our skills
 to make a positive impact on the world.
 
 <br>
