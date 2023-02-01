@@ -41,15 +41,14 @@
 > who are committed to using our skills
 > and expertise to make a positive impact
 > on the environment. Please be specific
-> in your request and we will do our best
-> to address your request as quickly as possible.
+> in your request and we will try to
+> to address your request as best as possible.
 >
-> We will do our best to assist you with a
-> solution, whether it's a program to
-> optimize your logistics or data analysis,
-> as long as it aligns with our
-> mission to support sustainability.
-> It's our pleasure and great honor to help you.
+> We will assist you with a technological solution,
+> whether it be a program to optimize your logistics or
+> data analysis. You can be anyone. We'll help you as long as
+> the solution you're asking for aligns with our
+> mission to support environmental sustainability.
 
 <br>
 <br>
@@ -61,7 +60,7 @@ Open-source developers.
 
 We are the kind of people who were tired
 of writing code that merely tries
-to attract more ads money. We needed to take
+to generate more money through ads. We needed to take
 a break and wanted to work on projects that
 we truly care about.
 
