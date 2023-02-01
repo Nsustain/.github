@@ -72,9 +72,9 @@ The idea is that farmers are the people who work
 most closely with the environment, so solving any
 problems they have is likely one of the best ways
 to make a positive impact on environmental sustainability.
-People who have office jobs often
-do not have close contact with environmental issues
-or sustainability problems.
+People with office jobs aren't able to see and encounter
+issues related to environmental sustainability
+most of the times, compared to farmers or scientists.
 By working with these individuals,
 who have a deep understanding of the challenges facing the
 environment, Nsustain hopes to develop innovative solutions
