@@ -69,13 +69,11 @@
 College students. Internet strangers.
 Open-source developers.
 
-We want to work on projects that have a purpose
-and make a positive impact, rather than simply
-creating apps that generate revenue through
-advertising. While there is value in developing
-consumer products, we also recognize everyone
-has the desire to work on projects that truly matter.
-Projects that we truly care about.
+We are the kind of people who were tired
+of writing code that merely tries
+to attract more ads money. We needed to take
+a break and wanted to work on projects that
+we truly care about.
 
 <br>
 
