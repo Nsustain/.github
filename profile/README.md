@@ -46,10 +46,10 @@
 >
 > We will do our best to assist you with a
 > solution, whether it's a program to
-> optimize your logistics, data analysis, or
-> else. As long as it aligns with our
-> mission to support sustainability,
-> we will try our best to help.
+> optimize your logistics or data analysis,
+> as long as it aligns with our
+> mission to support sustainability.
+> It's our pleasure and great honor to help you.
 
 <br>
 <br>
@@ -68,14 +68,14 @@ we truly care about.
 <br>
 
 ***Why did we make Nsustain?***<br>
-The idea is that farmers are the people who work
+The idea is that farmers and scientists are the people who work
 most closely with the environment, so solving any
 problems they have is likely one of the best ways
 to make a positive impact on environmental sustainability.
 
 People with office jobs can't see or feel
 issues related to environmental sustainability
-most of the times, compared to farmers or scientists.
+most of the times, compared to farmers and scientists.
 By working with these individuals,
 who have a deep understanding of the challenges facing the
 environment, Nsustain hopes to develop innovative solutions
