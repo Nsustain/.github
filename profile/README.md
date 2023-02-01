@@ -72,21 +72,14 @@ The idea is that farmers are the people who work
 most closely with the environment, so solving any
 problems they have is likely one of the best ways
 to make a positive impact on environmental sustainability.
-People with office jobs aren't able to see and encounter
+
+People with office jobs can't see or feel
 issues related to environmental sustainability
 most of the times, compared to farmers or scientists.
 By working with these individuals,
 who have a deep understanding of the challenges facing the
 environment, Nsustain hopes to develop innovative solutions
 that make a lasting positive impact.
-
-Nsustain is a platform designed to help regular people make a
-direct impact on environmental sustainability. We aim to empower
-individuals to take action and contribute to the fight against climate change.
-We are committed to running Nsustain for as long as we can,
-hopefully our lifetime, and we are honored to
-have the opportunity to use our skills
-to make a positive impact on the world.
 
 <br>
 
