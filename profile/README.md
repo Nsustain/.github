@@ -46,7 +46,8 @@
 >
 > We will assist you with a technological solution,
 > whether it be a program to optimize your logistics or
-> data analysis. You can be anyone. We'll help you as long as
+> data analysis. You don't have to be in a certain profession.
+> We'll help you as long as
 > the solution you're asking for aligns with our
 > mission to support environmental sustainability.
 
