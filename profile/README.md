@@ -84,7 +84,6 @@ that make a lasting positive impact.
 
 ***What does Nsustain stand for?***<br>
 E[<b>N</b>]vironment and [<b>sustain</b>]ability.
-**Nsustain**.
 
 <br>
 <br>
