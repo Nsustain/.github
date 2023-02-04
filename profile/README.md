@@ -45,8 +45,9 @@
 > to address your request as best as possible.
 >
 > We will assist you with a technological solution,
-> whether it be a program to optimize your logistics or
-> data analysis. You don't have to be in a certain profession.
+> whether it be a program to optimize your logistics,
+> data analysis, or whatever techy thing you need help with. 
+> You don't have to be in a certain profession.
 > We'll help you as long as
 > the solution you're asking for aligns with our
 > mission to support environmental sustainability.
