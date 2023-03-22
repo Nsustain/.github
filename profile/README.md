@@ -60,10 +60,10 @@
 College students. Internet strangers.
 Open-source developers.
 
-We are the kind of people who were tired
-of writing code that merely tries
-to generate more money through ads. We needed to take
-a break and wanted to work on projects that
+We are the kind of people who are tired
+of seeing codes whose only purpose is
+make more money with more ad clicks.
+We wanted to find projects that
 we truly care about.
 
 <br>
