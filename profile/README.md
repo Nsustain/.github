@@ -61,7 +61,7 @@ College students. Internet strangers.
 Open-source developers.
 
 We are the kind of people who were tired
-of seeing codes whose only purpose is
+of seeing codes whose only purpose was to
 make more money with more ad clicks.
 We wanted to find projects that
 we truly care about.
