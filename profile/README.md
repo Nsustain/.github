@@ -60,7 +60,7 @@
 College students. Internet strangers.
 Open-source developers.
 
-We are the kind of people who are tired
+We are the kind of people who were tired
 of seeing codes whose only purpose is
 make more money with more ad clicks.
 We wanted to find projects that
