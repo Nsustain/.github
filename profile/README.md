@@ -30,7 +30,7 @@
   </b>
   <br>
   <br>
-  🌳 A non-profit, open-source website where volunteer developers can come help farmers and scientists around the world.
+  🌳 We connect volunteer programmers with farmers or whoever working in an environment-related profession.
 </p>
 
 <br>
@@ -46,8 +46,7 @@
 >
 > We will assist you with a technological solution,
 > whether it be a program to optimize your logistics,
-> data analysis, or whatever techy thing you need help with. 
-> You don't have to be in a certain profession.
+> data analysis, or whatever techy thing you need help with.
 > We'll help you as long as
 > the solution you're asking for aligns with our
 > mission to support environmental sustainability.
@@ -56,36 +55,18 @@
 <br>
 <br>
 
-***Who are we?***<br>
-College students. Internet strangers.
-Open-source developers.
-
-We are the kind of people who were tired
-of seeing codes whose only purpose was to
-make more money with more ad clicks.
-We wanted to find projects that
-we truly care about.
-
-<br>
-
 ***Why did we make Nsustain?***<br>
 The idea is that farmers and scientists are the people who work
 most closely with the environment, so solving any
 problems they have is likely one of the best ways
 to make a positive impact on environmental sustainability.
 
-People with office jobs can't see or feel
-issues related to environmental sustainability
-most of the times, compared to farmers and scientists.
-By working with these individuals,
-who have a deep understanding of the challenges facing the
-environment, Nsustain hopes to develop innovative solutions
-that make a lasting positive impact.
-
 <br>
 
-***What does Nsustain stand for?***<br>
-E[<b>N</b>]vironment and [<b>sustain</b>]ability.
+***Who are we?***<br>
+College students. Internet strangers.
+Open-source developers.
+We wanted to do something good for the environment and sustainability, but realized it's really hard to make a big impact. So, we decided to create a non-profit called Nsustain, which stands for E[<b>N</b>]vironment and [<b>sustain</b>]ability.
 
 <br>
 <br>
