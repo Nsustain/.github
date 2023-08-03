@@ -66,7 +66,7 @@ to make a positive impact on environmental sustainability.
 ***Who are we?***<br>
 College students. Internet strangers.
 Open-source developers.
-We wanted to do something good for the environment and sustainability, but realized it's really hard to make a big impact. So, we decided to create a non-profit called Nsustain, which stands for E[<b>N</b>]vironment and [<b>sustain</b>]ability.
+We wanted to do something good for the environment and sustainability, but realized it's really hard to make a big impact as regular people like ourselves. So, we wanted to make a way for everyone to contribute. This is why we created a non-profit called Nsustain, which stands for E[<b>N</b>]vironment and [<b>sustain</b>]ability.
 
 <br>
 <br>
