@@ -30,7 +30,7 @@
   </b>
   <br>
   <br>
-  🌳 We connect volunteer programmers with farmers or whoever working in an environment-related profession.
+  🌳 We make whatever program you need, if your work is related to environmental sustainability.
 </p>
 
 <br>
