@@ -72,21 +72,6 @@ We wanted to do something good for the environment and sustainability, but reali
 <br>
 <br>
 
-<p align="center">
-  <b>
-    YouTube<br>
-    [<a href="https://youtu.be/E8JAcw1SJLA">What is Nsustain?</a>]
-  </b>
-  <a href="https://youtu.be/E8JAcw1SJLA" target="_blank">
-    <img src="https://img.youtube.com/vi/E8JAcw1SJLA/maxresdefault.jpg" alt="Nsustain YouTube" />
-  </a>
-</p>
-
-
-<br>
-<br>
-<br>
-
 ## Repositories
 
 #### Nsustain Source Code [[GitHub](https://github.com/Nsustain/nsustain.com)]
