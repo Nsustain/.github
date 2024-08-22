@@ -71,31 +71,3 @@ We wanted to do something good for the environment and sustainability, but reali
 <br>
 <br>
 <br>
-
-## Repositories
-
-#### Nsustain Source Code [[GitHub](https://github.com/Nsustain/nsustain.com)]
-
-Every part of our website
-except for the database containing user data
-is open-source. This repository is how we run
-[Nsustain.com](https://nsustain.com)
-
-<br>
-
-#### Maintenance Page Source Code [[GitHub](https://github.com/Nsustain/maintenance-page)]
-
-We use this repository in case of
-unforseeable emergency. It's designed such that
-we can deploy it just by cloning
-this repository and using
-`docker compose up -d`.
-
-<br>
-
-#### Official Logos [[GitHub](https://github.com/Nsustain/.github)]
-
-We have various versions of our official
-logos maintained at this repository.
-Each version is stored as `.png` and
-`.svg` files.
