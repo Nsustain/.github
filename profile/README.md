@@ -37,26 +37,13 @@
 <br>
 
 # Nsustain
-> We are a team of passionate volunteers
-> who are committed to using our skills
-> and expertise to make a positive impact
-> on the environment. Please be specific
-> in your request and we will try to
-> to address your request as best as possible.
->
-> We will assist you with a technological solution,
-> whether it be a program to optimize your logistics,
-> data analysis, or whatever techy thing you need help with.
-> We'll help you as long as
-> the solution you're asking for aligns with our
-> mission to support environmental sustainability.
+> If your work is realated to environmental sustainability, we'll do our best to connect you with a techy person who can probably give you a solution using technology.
+> Please make your reqest as specific as you can -- e.g. how do you want it to look like and who will be using it?
 
-<br>
-<br>
 <br>
 
 ***Why did we make Nsustain?***<br>
-The idea is that farmers and scientists are the people who work
+The idea is that farmers, scientists, etc, are the people who work
 most closely with the environment, so solving any
 problems they have is likely one of the best ways
 to make a positive impact on environmental sustainability.
@@ -71,3 +58,20 @@ We wanted to do something good for the environment and sustainability, but reali
 <br>
 <br>
 <br>
+
+## Repositories
+
+#### Nsustain Source Code [[GitHub](https://github.com/Nsustain/nsustain.com)]
+
+Nsustain uses [Flarum](https://github.com/flarum) (a really cool forum framework) and other open-source projects.
+Our goal is to as self-sustainable as possible with little to no maintenance.
+This repository is how we run [Nsustain.com](https://nsustain.com)
+
+<br>
+
+#### Official Logos [[GitHub](https://github.com/Nsustain/.github)]
+
+We have various versions of our official
+logos maintained at this repository.
+Each version is stored as `.png` and
+`.svg` files.
