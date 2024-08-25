@@ -64,7 +64,7 @@ We wanted to do something good for the environment and sustainability, but reali
 #### Nsustain Source Code [[GitHub](https://github.com/Nsustain/nsustain.com)]
 
 Nsustain uses [Flarum](https://github.com/flarum) (a really cool forum framework) and other open-source projects.
-Our goal is to as self-sustainable as possible with little to no maintenance.
+Our goal is to be as self-sustainable as possible with little to no maintenance (although we know no maintenance might be nearly impossible).
 This repository is how we run [Nsustain.com](https://nsustain.com)
 
 <br>
