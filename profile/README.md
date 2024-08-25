@@ -38,7 +38,7 @@
 
 # Nsustain
 > If your work is realated to environmental sustainability, we'll do our best to connect you with a techy person who can probably give you a solution using technology.
-> Please make your reqest as specific as you can -- e.g. how do you want it to look like and who will be using it?
+> Please make your request as specific as you can -- e.g. how do you want it to look like (draw it and attach it if you can) and who will be using it?
 
 <br>
 
