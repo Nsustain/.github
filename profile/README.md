@@ -53,7 +53,7 @@ to make a positive impact on environmental sustainability.
 ***Who are we?***<br>
 College students. Internet strangers.
 Open-source developers.
-We wanted to do something good for the environment and sustainability, but realized it's really hard to make a big impact as regular people like ourselves. So, we wanted to make a way for everyone to contribute. This is why we created Nsustain, which stands for E[<b>N</b>]vironment and [<b>sustain</b>]ability.
+We wanted to do something good for the environment and sustainability, but realized it's really hard to make a big impact as regular people like ourselves. This is why we created Nsustain, which stands for the e[<b>N</b>]vironment and [<b>sustain</b>]ability. Pick any project request that speaks to your heart, and help it in any way you want.
 
 <br>
 <br>
