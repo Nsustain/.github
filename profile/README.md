@@ -30,7 +30,7 @@
   </b>
   <br>
   <br>
-  🌳 We make whatever program you need, if your work is related to environmental sustainability.
+  🌳 Volunteer programmers for the e[N]vironment and [sustain]ability.
 </p>
 
 <br>
