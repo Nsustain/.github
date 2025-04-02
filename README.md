@@ -58,6 +58,12 @@
 
 ---
 
+- Font: Montserrat ExtraBold Alt1
+- Font Family: Normal
+- Font Weight: 800
+
+---
+
 <br>
 <br>
 <br>
