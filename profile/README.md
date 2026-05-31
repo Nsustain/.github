@@ -61,17 +61,9 @@ We wanted to do something good for the environment and sustainability, but reali
 
 ## Repositories
 
-#### Nsustain Source Code [[GitHub](https://github.com/Nsustain/nsustain.com)]
+#### Deployment Codes [[GitHub](https://github.com/soobinrho/deploy-nsustain.com)]
 
-Nsustain uses [Flarum](https://github.com/flarum) (a really cool forum framework) and other open-source projects.
-Our goal is to be as self-sustainable as possible with little to no maintenance (although we know no maintenance might be nearly impossible).
-This repository is how we run [Nsustain.com](https://nsustain.com)
-
-<br>
-
-#### Nsustain Deployment Code [[GitHub](https://github.com/soobinrho/deploy-nsustain.com)]
-
-This is how we deploy Nsustain using Docker Compose and Nginx reverse proxying.
+How we deploy our apps.
 
 <br>
 
